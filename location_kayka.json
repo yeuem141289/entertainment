@@ -1942,7 +1942,7 @@
     "latitude": 48.05,
     "longitude": -91.65,
     "tags": ["wilderness", "national_forest"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Voyageurs_National_Park.jpg"
   },
   {
     "id": "loc_mn_02",
@@ -1955,7 +1955,7 @@
     "latitude": 47.75,
     "longitude": -90.35,
     "tags": ["great_lake", "cliffs"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Split_Rock_Lighthouse_-_North_Shore_of_Lake_Superior.jpg/1280px-Split_Rock_Lighthouse_-_North_Shore_of_Lake_Superior.jpg"
   },
   {
     "id": "loc_mn_03",
@@ -1968,7 +1968,7 @@
     "latitude": 47.25,
     "longitude": -95.20,
     "tags": ["state_park", "historic"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lake_Itasca_Mississippi_Source.jpg"
   },
   {
     "id": "loc_mn_04",
@@ -1981,7 +1981,7 @@
     "latitude": 45.40,
     "longitude": -92.65,
     "tags": ["scenic", "national_river"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/St_Croix_River_-_Looking_South.jpg/2560px-St_Croix_River_-_Looking_South.jpg"
   },
   {
     "id": "loc_mn_05",
@@ -1994,7 +1994,7 @@
     "latitude": 44.93,
     "longitude": -93.60,
     "tags": ["suburban", "recreation"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://static.wixstatic.com/media/bb58b8_8fb78f6777dc46078c53eb4631d00944~mv2.jpg/v1/fill/w_640,h_426,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/bb58b8_8fb78f6777dc46078c53eb4631d00944~mv2.jpg"
   },
   {
     "id": "loc_mn_06",
@@ -2007,7 +2007,7 @@
     "latitude": 44.95,
     "longitude": -93.30,
     "tags": ["urban", "connected_lakes"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://www.berglarsengroup.com/thumbs/800x600/r/uploads/LakeOfTheIsles%20and%20Minneapolis.jpg"
   },
   {
     "id": "loc_mn_07",
@@ -2020,7 +2020,7 @@
     "latitude": 45.20,
     "longitude": -93.30,
     "tags": ["slow", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rum_River_in_Princeton%2C_Minnesota_%2829572111696%29.jpg/1280px-Rum_River_in_Princeton%2C_Minnesota_%2829572111696%29.jpg"
   },
   {
     "id": "loc_mn_08",
@@ -2033,7 +2033,7 @@
     "latitude": 48.60,
     "longitude": -93.30,
     "tags": ["remote", "border_lake"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rainy_Lake_from_Tango_Channel.jpg"
   },
 
   {
@@ -2047,7 +2047,7 @@
     "latitude": 30.65,
     "longitude": -88.60,
     "tags": ["wild_river", "nature"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/pascagoula_4000x2200.jpg?crop=0%2C0%2C4000%2C2200&wid=1300&hei=715&scl=3.076923076923077"
   },
   {
     "id": "loc_ms_02",
