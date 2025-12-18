@@ -759,7 +759,7 @@
     "latitude": 21.28,
     "longitude": -157.70,
     "tags": ["open_water", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/24/72/hanauma-bay-e-la-dietro.jpg?w=900&h=500&s=1"
   },
   {
     "id": "loc_hi_08",
@@ -772,7 +772,7 @@
     "latitude": 20.63,
     "longitude": -156.50,
     "tags": ["volcanic", "advanced"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/04551_0.jpg.webp?itok=PjFY6w-0"
   },
 
   {
@@ -786,7 +786,7 @@
     "latitude": 45.33,
     "longitude": -114.12,
     "tags": ["whitewater", "iconic"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Salmon_River.JPG"
   },
   {
     "id": "loc_id_02",
@@ -799,7 +799,7 @@
     "latitude": 44.09,
     "longitude": -116.10,
     "tags": ["whitewater", "popular"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://cdn.britannica.com/05/146105-050-EE413E2A/Payette-River-McCall-Idaho.jpg"
   },
   {
     "id": "loc_id_03",
@@ -812,7 +812,7 @@
     "latitude": 43.60,
     "longitude": -116.20,
     "tags": ["scenic", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Snake_River_Canyon_Idaho_2007.jpg"
   },
   {
     "id": "loc_id_04",
@@ -825,7 +825,7 @@
     "latitude": 48.05,
     "longitude": -116.50,
     "tags": ["lake", "mountain"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://visitidaho.org/wp-content/uploads/2022/11/DJI_0220.jpg"
   },
   {
     "id": "loc_id_05",
@@ -838,7 +838,7 @@
     "latitude": 48.62,
     "longitude": -116.92,
     "tags": ["clear_water", "peaceful"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Priest_Lake_in_Idaho.jpg"
   },
   {
     "id": "loc_id_06",
@@ -851,7 +851,7 @@
     "latitude": 44.61,
     "longitude": -111.37,
     "tags": ["fishing", "gentle"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://cdn.britannica.com/90/152690-050-084C7467/Henrys-Fork-Island-Park-Idaho.jpg"
   },
   {
     "id": "loc_id_07",
@@ -864,7 +864,7 @@
     "latitude": 47.63,
     "longitude": -116.82,
     "tags": ["recreational", "family_friendly"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/8d/94/22/independence-point-and.jpg?w=1200&h=1200&s=1"
   },
   {
     "id": "loc_id_08",
