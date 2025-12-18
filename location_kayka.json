@@ -1416,7 +1416,7 @@
     "latitude": 30.00,
     "longitude": -91.85,
     "tags": ["bayou", "wildlife"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://res.cloudinary.com/miles-extranet-dev/image/upload/v1670961749/Louisiana/account_photos/3755/BayouTeche.jpg"
   },
   {
     "id": "loc_la_02",
@@ -1429,7 +1429,7 @@
     "latitude": 30.25,
     "longitude": -91.55,
     "tags": ["swamp", "wildlife"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atchafalaya_Basin.jpg/1080px-Atchafalaya_Basin.jpg"
   },
   {
     "id": "loc_la_03",
@@ -1442,7 +1442,7 @@
     "latitude": 30.18,
     "longitude": -90.10,
     "tags": ["brackish", "open_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://cdn.britannica.com/64/245664-050-028A2A9F/Lake-Pontchartrain-Causeway-New-Orleans-Louisiana.jpg"
   },
   {
     "id": "loc_la_04",
@@ -1455,7 +1455,7 @@
     "latitude": 30.55,
     "longitude": -90.60,
     "tags": ["clear_water", "nature"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Swamp_in_Tickfaw_State_Park_Louisiana.jpg"
   },
   {
     "id": "loc_la_05",
@@ -1468,7 +1468,7 @@
     "latitude": 31.50,
     "longitude": -93.75,
     "tags": ["slow", "border"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sabine_River_at_Logansport%2C_LA_IMG_0950.JPG/1280px-Sabine_River_at_Logansport%2C_LA_IMG_0950.JPG"
   },
   {
     "id": "loc_la_06",
@@ -1481,7 +1481,7 @@
     "latitude": 32.75,
     "longitude": -93.85,
     "tags": ["cypress", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Caddo_Lake-_Cypress.jpg"
   },
   {
     "id": "loc_la_07",
@@ -1494,7 +1494,7 @@
     "latitude": 29.70,
     "longitude": -89.55,
     "tags": ["coastal", "marsh"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://www.louisianasportsman.com/wp-content/uploads/2014/07/p1403204025.jpg"
   },
   {
     "id": "loc_la_08",
@@ -1507,7 +1507,7 @@
     "latitude": 31.20,
     "longitude": -93.55,
     "tags": ["reservoir", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sabine_National_Forest%2C_Toledo_Bend_Reservoir%2C_Texas.jpg/1280px-Sabine_National_Forest%2C_Toledo_Bend_Reservoir%2C_Texas.jpg"
   },
 
   {
@@ -1521,7 +1521,7 @@
     "latitude": 44.34,
     "longitude": -68.27,
     "tags": ["national_park", "coastal"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bass_Harbor_Lighthouse_b.jpg"
   },
   {
     "id": "loc_me_02",
@@ -1534,7 +1534,7 @@
     "latitude": 45.00,
     "longitude": -68.75,
     "tags": ["whitewater", "historic"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://www.americanrivers.org/wp-content/uploads/2022/12/THIS-ONE_ME-Penobscot-R_Tim-Palmer-1024x683.jpg"
   },
   {
     "id": "loc_me_03",
@@ -1547,7 +1547,7 @@
     "latitude": 45.65,
     "longitude": -69.70,
     "tags": ["wilderness", "remote"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Moosehead_Lake.jpg"
   },
   {
     "id": "loc_me_04",
@@ -1560,7 +1560,7 @@
     "latitude": 47.00,
     "longitude": -69.00,
     "tags": ["wilderness", "multi_day"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Allagash_River_2003.jpg/1200px-Allagash_River_2003.jpg"
   },
   {
     "id": "loc_me_05",
@@ -1573,7 +1573,7 @@
     "latitude": 43.86,
     "longitude": -70.58,
     "tags": ["clear_water", "recreation"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sebago-state-park1.jpg/1280px-Sebago-state-park1.jpg"
   },
   {
     "id": "loc_me_06",
@@ -1586,7 +1586,7 @@
     "latitude": 44.55,
     "longitude": -69.60,
     "tags": ["whitewater", "rapids"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KennebecRiverinSomersetCounty.JPG/1280px-KennebecRiverinSomersetCounty.JPG"
   },
   {
     "id": "loc_me_07",
@@ -1599,7 +1599,7 @@
     "latitude": 43.66,
     "longitude": -70.20,
     "tags": ["islands", "coastal"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8a/a3/5f/img-20180626-140059607.jpg?w=1200&h=-1&s=1"
   },
   {
     "id": "loc_me_08",
@@ -1612,7 +1612,7 @@
     "latitude": 44.00,
     "longitude": -70.90,
     "tags": ["camping", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SacoConway.jpg/1280px-SacoConway.jpg"
   },
 
   {
