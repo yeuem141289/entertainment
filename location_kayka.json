@@ -4758,7 +4758,7 @@
     "latitude": 44.00,
     "longitude": -88.50,
     "tags": ["large_lake", "open_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://d25g0eo9v926iy.cloudfront.net/wp-content/uploads/2025/08/03143148/Lake-with-small-bridge-1.jpg"
   },
   {
     "id": "loc_wi_08",
@@ -4771,7 +4771,7 @@
     "latitude": 46.55,
     "longitude": -91.60,
     "tags": ["cold_water", "clear"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brule_River.jpg"
   },
 
   
@@ -4786,7 +4786,7 @@
     "latitude": 43.80,
     "longitude": -110.70,
     "tags": ["national_park", "wildlife", "iconic"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://cdn.yellowstoneparknet.com/images/content/2917_4eJ0w_Snake_River_at_Oxbow_Bend_lg.jpg"
   },
   {
     "id": "loc_wy_02",
@@ -4799,7 +4799,7 @@
     "latitude": 43.90,
     "longitude": -110.65,
     "tags": ["alpine", "mountain_views"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Colter_bay_boats_20100822_080110_1.jpg"
   },
   {
     "id": "loc_wy_03",
@@ -4812,7 +4812,7 @@
     "latitude": 43.40,
     "longitude": -108.20,
     "tags": ["whitewater", "canyon"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Wind_River_%28Wind_River_Canyon%2C_Owl_Creek_Mountains%2C_Wyoming%2C_USA%29_7_%2819226621624%29.jpg"
   },
   {
     "id": "loc_wy_04",
@@ -4825,7 +4825,7 @@
     "latitude": 43.42,
     "longitude": -108.18,
     "tags": ["reservoir", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://windriver.org/wp-content/uploads/2015/02/IMG_5069-1200x645.jpg"
   },
   {
     "id": "loc_wy_05",
@@ -4838,7 +4838,7 @@
     "latitude": 44.95,
     "longitude": -108.40,
     "tags": ["tailwater", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/636960134789629939.jpg"
   },
   {
     "id": "loc_wy_06",
@@ -4851,7 +4851,7 @@
     "latitude": 44.70,
     "longitude": -110.50,
     "tags": ["wild", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://cdn.britannica.com/65/101765-050-B986C7CE/Yellowstone-River-Montana.jpg"
   },
   {
     "id": "loc_wy_07",
@@ -4864,7 +4864,7 @@
     "latitude": 41.10,
     "longitude": -109.55,
     "tags": ["desert", "reservoir"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Evening_view_of_Flaming_Gorge_from_Sheep_Creek_Overlook%2C_2009.jpg"
   },
   {
     "id": "loc_wy_08",
@@ -4877,7 +4877,7 @@
     "latitude": 42.70,
     "longitude": -108.85,
     "tags": ["mountain", "cold_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://www.geowyo.com/uploads/8/4/7/8/84786270/b1q5cnrgqcuiwfdjyuo4xw_orig.jpg"
   }
 
 ]
