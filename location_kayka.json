@@ -877,7 +877,7 @@
     "latitude": 44.93,
     "longitude": -115.00,
     "tags": ["wilderness", "expedition"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Middle_Fork_Salmon_River_Idaho.jpg/1200px-Middle_Fork_Salmon_River_Idaho.jpg"
   },
 
   {
@@ -891,7 +891,7 @@
     "latitude": 41.89,
     "longitude": -87.63,
     "tags": ["urban", "iconic"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chicago_River_6.jpg"
   },
   {
     "id": "loc_il_02",
@@ -904,7 +904,7 @@
     "latitude": 42.05,
     "longitude": -87.89,
     "tags": ["forest", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Des_Plaines_River_Lake_County_Illinois.jpg/1280px-Des_Plaines_River_Lake_County_Illinois.jpg"
   },
   {
     "id": "loc_il_03",
@@ -917,7 +917,7 @@
     "latitude": 42.10,
     "longitude": -88.29,
     "tags": ["recreational", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fox_River_in_Batavia.jpg/1280px-Fox_River_in_Batavia.jpg"
   },
   {
     "id": "loc_il_04",
@@ -930,7 +930,7 @@
     "latitude": 41.12,
     "longitude": -87.86,
     "tags": ["nature", "sandbars"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kankakee_River_at_Kankakee.jpg"
   },
   {
     "id": "loc_il_05",
@@ -943,7 +943,7 @@
     "latitude": 41.88,
     "longitude": -87.62,
     "tags": ["great_lake", "open_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://cdn.choosechicago.com/uploads/2019/06/CC-northave-beach-aerial-e1565982585831.jpg"
   },
   {
     "id": "loc_il_06",
@@ -956,7 +956,7 @@
     "latitude": 41.32,
     "longitude": -88.99,
     "tags": ["state_park", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://i.ytimg.com/vi/JQo9vH8Wu5o/maxresdefault.jpg"
   },
   {
     "id": "loc_il_07",
@@ -969,7 +969,7 @@
     "latitude": 37.30,
     "longitude": -89.10,
     "tags": ["swamp", "wildlife"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cache_River_in_Woodruff_County%2C_AR_001.jpg"
   },
   {
     "id": "loc_il_08",
@@ -982,7 +982,7 @@
     "latitude": 41.84,
     "longitude": -89.48,
     "tags": ["wide_river", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://cityoforegon.org/wp-content/uploads/2016/05/IMG_9881-1024x768.jpg"
   },
 
   {
@@ -996,7 +996,7 @@
     "latitude": 39.77,
     "longitude": -86.17,
     "tags": ["urban", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://indyencyclopedia.org/wp-content/uploads/2023/12/white-river-state-park-3-full.jpg"
   },
   {
     "id": "loc_in_02",
