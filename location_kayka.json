@@ -3969,7 +3969,7 @@
     "latitude": 35.10,
     "longitude": -84.50,
     "tags": ["whitewater", "iconic"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://carolinaoutfitters.com/wp-content/uploads/2021/06/Upper-Ocoee-River-11.jpg"
   },
   {
     "id": "loc_tn_04",
@@ -3982,7 +3982,7 @@
     "latitude": 36.35,
     "longitude": -89.35,
     "tags": ["wildlife", "shallow"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Reelfoot_Lake.jpg"
   },
   {
     "id": "loc_tn_05",
@@ -3995,7 +3995,7 @@
     "latitude": 36.10,
     "longitude": -85.80,
     "tags": ["tailwater", "cold_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Caney_Fork_River_canoeing.jpg/1200px-Caney_Fork_River_canoeing.jpg"
   },
   {
     "id": "loc_tn_06",
@@ -4008,7 +4008,7 @@
     "latitude": 36.20,
     "longitude": -84.05,
     "tags": ["reservoir", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Norris_Lake_from_Norris_Dam%2C_Norris%2C_TN_-_52276480337.jpg/1280px-Norris_Lake_from_Norris_Dam%2C_Norris%2C_TN_-_52276480337.jpg"
   },
   {
     "id": "loc_tn_07",
@@ -4021,7 +4021,7 @@
     "latitude": 35.90,
     "longitude": -83.50,
     "tags": ["mountain", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://www.americanrivers.org/wp-content/uploads/2025/03/1.-French-Broad-River-NC_2015_Jeff-Rich.jpg"
   },
   {
     "id": "loc_tn_08",
@@ -4034,7 +4034,7 @@
     "latitude": 35.30,
     "longitude": -84.15,
     "tags": ["technical", "mountain"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tellico_River.jpg"
   },
 
   {
@@ -4048,7 +4048,7 @@
     "latitude": 29.76,
     "longitude": -95.37,
     "tags": ["urban", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://www.tshaonline.org/images/handbook/entries/BB/buffalo_bayou.jpg"
   },
   {
     "id": "loc_tx_02",
@@ -4061,7 +4061,7 @@
     "latitude": 29.85,
     "longitude": -98.10,
     "tags": ["hill_country", "clear_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Guadalupe_river_state_park_bluff.jpg/1200px-Guadalupe_river_state_park_bluff.jpg"
   },
   {
     "id": "loc_tx_03",
@@ -4074,7 +4074,7 @@
     "latitude": 32.75,
     "longitude": -94.10,
     "tags": ["swamp", "wildlife"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Canoeing_Caddo_Lake_State_Park_Texas_2023.jpg"
   },
   {
     "id": "loc_tx_04",
@@ -4087,7 +4087,7 @@
     "latitude": 30.26,
     "longitude": -97.74,
     "tags": ["urban", "flatwater"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lake_austin_2005.jpg"
   },
   {
     "id": "loc_tx_05",
@@ -4100,7 +4100,7 @@
     "latitude": 27.45,
     "longitude": -97.30,
     "tags": ["coastal", "ocean"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://texashighways.com/wp-content/uploads/2022/11/drive-padre-island-railroad-vine-dunes.jpg"
   },
   {
     "id": "loc_tx_06",
@@ -4113,7 +4113,7 @@
     "latitude": 30.40,
     "longitude": -97.95,
     "tags": ["reservoir", "open_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://travisso.com/wp-content/uploads/2024/07/Travisso-Lake-Travis-Facts-Blog-5-1024x576.jpg"
   },
   {
     "id": "loc_tx_07",
@@ -4126,7 +4126,7 @@
     "latitude": 29.88,
     "longitude": -97.94,
     "tags": ["spring_fed", "clear_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d0/16/99/photo1jpg.jpg?w=1200&h=-1&s=1"
   },
   {
     "id": "loc_tx_08",
@@ -4139,7 +4139,7 @@
     "latitude": 29.40,
     "longitude": -94.80,
     "tags": ["bay", "tidal"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://cdn.britannica.com/42/121742-050-77863B1D/Gulf-Intracoastal-Waterway-Galveston-Bay-Texas.jpg"
   },
 
   
