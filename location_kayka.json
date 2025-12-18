@@ -589,7 +589,7 @@
     "latitude": 31.51,
     "longitude": -81.48,
     "tags": ["wildlife", "long_distance"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Altamaha_River_from_bridge.jpg"
   },
   {
     "id": "loc_ga_03",
@@ -602,7 +602,7 @@
     "latitude": 33.98,
     "longitude": -84.27,
     "tags": ["urban", "popular"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chattahoochee.jpg"
   },
   {
     "id": "loc_ga_04",
@@ -615,7 +615,7 @@
     "latitude": 34.20,
     "longitude": -83.93,
     "tags": ["lake", "family_friendly"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://exploregeorgia.org/sites/default/files/listing_images/profile/37848/70cc55828bd906a9c43a9b27d92b0952_Lake_Laniermax-1200x675.jpg"
   },
   {
     "id": "loc_ga_05",
@@ -628,7 +628,7 @@
     "latitude": 34.14,
     "longitude": -84.73,
     "tags": ["lake", "easy_access"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Red_Top_Mountain_State_Park%2C_November_2015.jpg"
   },
   {
     "id": "loc_ga_06",
@@ -641,7 +641,7 @@
     "latitude": 30.72,
     "longitude": -82.17,
     "tags": ["swamp", "wildlife"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://www.travelandleisure.com/thmb/VB9oHCMeruaXz1HxB4jewOFP2s4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-lead-image-OKEFENOKEEGA0425-1ebca6ab2d5b44dfb7fa0e4e752c1abe.jpg"
   },
   {
     "id": "loc_ga_07",
@@ -654,7 +654,7 @@
     "latitude": 32.00,
     "longitude": -80.85,
     "tags": ["coastal", "beach"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://exploregeorgia.org/sites/default/files/styles/editorial_list_l/public/2022-06/aerial-south-tybee-island-credit-dji-drone-jdwolfjr-courtesy-visittybee.jpg?itok=V5kV1b52"
   },
   {
     "id": "loc_ga_08",
