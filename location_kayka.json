@@ -2258,7 +2258,7 @@
     "latitude": 47.85,
     "longitude": -114.10,
     "tags": ["large_lake", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/636828157932690198.jpg"
   },
   {
     "id": "loc_mt_02",
@@ -2271,7 +2271,7 @@
     "latitude": 48.70,
     "longitude": -113.80,
     "tags": ["national_park", "alpine"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Swiftcurrent_Lake_Glacier_National_Park.jpg/1080px-Swiftcurrent_Lake_Glacier_National_Park.jpg"
   },
   {
     "id": "loc_mt_03",
@@ -2284,7 +2284,7 @@
     "latitude": 47.00,
     "longitude": -111.30,
     "tags": ["major_river", "flatwater"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/636070422737977933.jpg"
   },
   {
     "id": "loc_mt_04",
@@ -2297,7 +2297,7 @@
     "latitude": 45.80,
     "longitude": -109.50,
     "tags": ["mountain", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/33794h.jpg"
   },
   {
     "id": "loc_mt_05",
@@ -2310,7 +2310,7 @@
     "latitude": 46.85,
     "longitude": -113.90,
     "tags": ["valley", "historic"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fall_Clark_Fork.jpg/1280px-Fall_Clark_Fork.jpg"
   },
   {
     "id": "loc_mt_06",
@@ -2323,7 +2323,7 @@
     "latitude": 45.10,
     "longitude": -108.20,
     "tags": ["canyon", "reservoir"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/33747h.jpg"
   },
   {
     "id": "loc_mt_07",
@@ -2336,7 +2336,7 @@
     "latitude": 47.18,
     "longitude": -113.48,
     "tags": ["quiet", "mountain"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seeley_Lake_Montana_20130716_04.JPG/1080px-Seeley_Lake_Montana_20130716_04.JPG"
   },
   {
     "id": "loc_mt_08",
@@ -2349,7 +2349,7 @@
     "latitude": 45.40,
     "longitude": -111.40,
     "tags": ["whitewater", "famous"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LowerMadisonRiverInBearTrapCanyon.jpg/1080px-LowerMadisonRiverInBearTrapCanyon.jpg"
   },
 
   {
@@ -2363,7 +2363,7 @@
     "latitude": 41.15,
     "longitude": -97.40,
     "tags": ["shallow", "wide"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Platte_River.jpg/1280px-Platte_River.jpg"
   },
   {
     "id": "loc_ne_02",
@@ -2376,7 +2376,7 @@
     "latitude": 42.80,
     "longitude": -100.00,
     "tags": ["waterfalls", "scenic"],
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Niobrara_scenic_river.jpg"
   },
   {
     "id": "loc_ne_03",
@@ -2389,7 +2389,7 @@
     "latitude": 42.90,
     "longitude": -97.50,
     "tags": ["reservoir", "calm"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lewis_%26_Clark_Lake_and_Dam_NE.jpg"
   },
   {
     "id": "loc_ne_04",
@@ -2402,7 +2402,7 @@
     "latitude": 41.80,
     "longitude": -99.40,
     "tags": ["sandhills", "open_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a26db0f5c0f8"
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/38/22/5e/another-beach-view.jpg?w=1000&h=-1&s=1"
   },
   {
     "id": "loc_ne_05",
@@ -2415,7 +2415,7 @@
     "latitude": 41.50,
     "longitude": -96.00,
     "tags": ["major_river", "wide"],
-    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+    "imageUrl": "https://rivers.gov/sites/rivers/files/styles/card_560_x_300/public/2022-12/missouri_river_nebraska.jpg?h=885c1a56&itok=7nGxwlRK"
   },
   {
     "id": "loc_ne_06",
@@ -2441,7 +2441,7 @@
     "latitude": 41.30,
     "longitude": -97.00,
     "tags": ["slow", "easy"],
-    "imageUrl": "https://images.unsplash.com/photo-1473187983305-f615310e7daa"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Elkhorn_River_from_Cowboy_Trail_W_of_519_Av.JPG"
   },
   {
     "id": "loc_ne_08",
@@ -2454,7 +2454,7 @@
     "latitude": 41.25,
     "longitude": -101.80,
     "tags": ["windy", "large_lake"],
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lake_McConaughy_Spillway_2002.jpg"
   },
 
   {
@@ -2468,7 +2468,7 @@
     "latitude": 39.10,
     "longitude": -119.90,
     "tags": ["alpine", "clear_water"],
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tahoe_North_Shore_from_the_East_Shore.jpg/1280px-Tahoe_North_Shore_from_the_East_Shore.jpg"
   },
   {
     "id": "loc_nv_02",
@@ -2481,7 +2481,7 @@
     "latitude": 36.10,
     "longitude": -114.75,
     "tags": ["desert", "reservoir"],
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    "imageUrl": "https://www.watereducation.org/sites/main/files/imagecache/lightbox/main-images/lake-mead-lighthawk-flight-aug-2020-6-cropped-web.jpg"
   },
   {
     "id": "loc_nv_03",
