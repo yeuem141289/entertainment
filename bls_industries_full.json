@@ -1,0 +1,426 @@
+[
+  {
+    "industry": "Accommodation",
+    "url": "https://www.bls.gov/iag/tgs/iag_accommodation.htm"
+  },
+  {
+    "industry": "Accommodation and Food Services",
+    "url": "https://www.bls.gov/iag/tgs/iag72.htm"
+  },
+  {
+    "industry": "Administrative and Support Services",
+    "url": "https://www.bls.gov/iag/tgs/iag561.htm"
+  },
+  {
+    "industry": "Administrative and Support and Waste Management and Remediation Services",
+    "url": "https://www.bls.gov/iag/tgs/iag56.htm"
+  },
+  {
+    "industry": "Agriculture, Forestry, Fishing and Hunting",
+    "url": "https://www.bls.gov/iag/tgs/iag11.htm"
+  },
+  {
+    "industry": "Air Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag481.htm"
+  },
+  {
+    "industry": "Ambulatory Health Care Services",
+    "url": "https://www.bls.gov/iag/tgs/iag621.htm"
+  },
+  {
+    "industry": "Amusement, Gambling, and Recreation Industries",
+    "url": "https://www.bls.gov/iag/tgs/iag713.htm"
+  },
+  {
+    "industry": "Animal Production",
+    "url": "https://www.bls.gov/iag/tgs/iag112.htm"
+  },
+  {
+    "industry": "Apparel Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag315.htm"
+  },
+  {
+    "industry": "Arts, Entertainment, and Recreation",
+    "url": "https://www.bls.gov/iag/tgs/iag71.htm"
+  },
+  {
+    "industry": "Beverage and Tobacco Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag312.htm"
+  },
+  {
+    "industry": "Broadcasting (except Internet)",
+    "url": "https://www.bls.gov/iag/tgs/iag515.htm"
+  },
+  {
+    "industry": "Building Material and Garden Equipment and Supplies Dealers",
+    "url": "https://www.bls.gov/iag/tgs/iag444.htm"
+  },
+  {
+    "industry": "Chemical Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag325.htm"
+  },
+  {
+    "industry": "Clothing and Clothing Accessories Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag448.htm"
+  },
+  {
+    "industry": "Computer and Electronic Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag334.htm"
+  },
+  {
+    "industry": "Construction",
+    "url": "https://www.bls.gov/iag/tgs/iag23.htm"
+  },
+  {
+    "industry": "Construction of Buildings",
+    "url": "https://www.bls.gov/iag/tgs/iag236.htm"
+  },
+  {
+    "industry": "Couriers and Messengers",
+    "url": "https://www.bls.gov/iag/tgs/iag492.htm"
+  },
+  {
+    "industry": "Credit Intermediation and Related Activities",
+    "url": "https://www.bls.gov/iag/tgs/iag522.htm"
+  },
+  {
+    "industry": "Crop Production",
+    "url": "https://www.bls.gov/iag/tgs/iag111.htm"
+  },
+  {
+    "industry": "Data Processing, Hosting, and Related Services",
+    "url": "https://www.bls.gov/iag/tgs/iag518.htm"
+  },
+  {
+    "industry": "Educational Services",
+    "url": "https://www.bls.gov/iag/tgs/iag61.htm"
+  },
+  {
+    "industry": "Electrical Equipment, Appliance, and Component Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag335.htm"
+  },
+  {
+    "industry": "Electronics and Appliance Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag443.htm"
+  },
+  {
+    "industry": "Fabricated Metal Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag332.htm"
+  },
+  {
+    "industry": "Finance and Insurance",
+    "url": "https://www.bls.gov/iag/tgs/iag52.htm"
+  },
+  {
+    "industry": "Fishing, Hunting and Trapping",
+    "url": "https://www.bls.gov/iag/tgs/iag114.htm"
+  },
+  {
+    "industry": "Food Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag311.htm"
+  },
+  {
+    "industry": "Food Services and Drinking Places",
+    "url": "https://www.bls.gov/iag/tgs/iag722.htm"
+  },
+  {
+    "industry": "Food and Beverage Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag445.htm"
+  },
+  {
+    "industry": "Forestry and Logging",
+    "url": "https://www.bls.gov/iag/tgs/iag113.htm"
+  },
+  {
+    "industry": "Funds, Trusts, and Other Financial Vehicles",
+    "url": "https://www.bls.gov/iag/tgs/iag525.htm"
+  },
+  {
+    "industry": "Furniture and Home Furnishings Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag442.htm"
+  },
+  {
+    "industry": "Furniture and Related Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag337.htm"
+  },
+  {
+    "industry": "Gasoline Stations",
+    "url": "https://www.bls.gov/iag/tgs/iag447.htm"
+  },
+  {
+    "industry": "General Merchandise Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag452.htm"
+  },
+  {
+    "industry": "Health Care and Social Assistance",
+    "url": "https://www.bls.gov/iag/tgs/iag62.htm"
+  },
+  {
+    "industry": "Health and Personal Care Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag446.htm"
+  },
+  {
+    "industry": "Heavy and Civil Engineering Construction",
+    "url": "https://www.bls.gov/iag/tgs/iag237.htm"
+  },
+  {
+    "industry": "Hospitals",
+    "url": "https://www.bls.gov/iag/tgs/iag622.htm"
+  },
+  {
+    "industry": "Information",
+    "url": "https://www.bls.gov/iag/tgs/iag51.htm"
+  },
+  {
+    "industry": "Insurance Carriers and Related Activities",
+    "url": "https://www.bls.gov/iag/tgs/iag524.htm"
+  },
+  {
+    "industry": "Internet Publishing and Broadcasting",
+    "url": "https://www.bls.gov/iag/tgs/iag516.htm"
+  },
+  {
+    "industry": "Leather and Allied Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag316.htm"
+  },
+  {
+    "industry": "Lessors of Nonfinancial Intangible Assets",
+    "url": "https://www.bls.gov/iag/tgs/iag533.htm"
+  },
+  {
+    "industry": "Machinery Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag333.htm"
+  },
+  {
+    "industry": "Management of Companies and Enterprises",
+    "url": "https://www.bls.gov/iag/tgs/iag55.htm"
+  },
+  {
+    "industry": "Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag31-33.htm"
+  },
+  {
+    "industry": "Merchant Wholesalers, Durable Goods",
+    "url": "https://www.bls.gov/iag/tgs/iag423.htm"
+  },
+  {
+    "industry": "Merchant Wholesalers, Nondurable Goods",
+    "url": "https://www.bls.gov/iag/tgs/iag424.htm"
+  },
+  {
+    "industry": "Mining (except Oil and Gas)",
+    "url": "https://www.bls.gov/iag/tgs/iag212.htm"
+  },
+  {
+    "industry": "Mining, Quarrying, and Oil and Gas Extraction",
+    "url": "https://www.bls.gov/iag/tgs/iag21.htm"
+  },
+  {
+    "industry": "Miscellaneous Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag339.htm"
+  },
+  {
+    "industry": "Miscellaneous Store Retailers",
+    "url": "https://www.bls.gov/iag/tgs/iag453.htm"
+  },
+  {
+    "industry": "Monetary Authorities — Central Bank",
+    "url": "https://www.bls.gov/iag/tgs/iag521.htm"
+  },
+  {
+    "industry": "Motion Picture and Sound Recording Industries",
+    "url": "https://www.bls.gov/iag/tgs/iag512.htm"
+  },
+  {
+    "industry": "Motor Vehicle and Parts Dealers",
+    "url": "https://www.bls.gov/iag/tgs/iag441.htm"
+  },
+  {
+    "industry": "Museums, Historical Sites, and Similar Institutions",
+    "url": "https://www.bls.gov/iag/tgs/iag712.htm"
+  },
+  {
+    "industry": "Nonmetallic Mineral Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag327.htm"
+  },
+  {
+    "industry": "Nonstore Retailers",
+    "url": "https://www.bls.gov/iag/tgs/iag454.htm"
+  },
+  {
+    "industry": "Nursing and Residential Care Facilities",
+    "url": "https://www.bls.gov/iag/tgs/iag623.htm"
+  },
+  {
+    "industry": "Oil and Gas Extraction",
+    "url": "https://www.bls.gov/iag/tgs/iag211.htm"
+  },
+  {
+    "industry": "Other Information Services",
+    "url": "https://www.bls.gov/iag/tgs/iag519.htm"
+  },
+  {
+    "industry": "Paper Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag322.htm"
+  },
+  {
+    "industry": "Performing Arts, Spectator Sports, and Related Industries",
+    "url": "https://www.bls.gov/iag/tgs/iag711.htm"
+  },
+  {
+    "industry": "Personal and Laundry Services",
+    "url": "https://www.bls.gov/iag/tgs/iag812.htm"
+  },
+  {
+    "industry": "Petroleum and Coal Products Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag324.htm"
+  },
+  {
+    "industry": "Pipeline Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag486.htm"
+  },
+  {
+    "industry": "Plastics and Rubber Products Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag326.htm"
+  },
+  {
+    "industry": "Postal Service",
+    "url": "https://www.bls.gov/iag/tgs/iag491.htm"
+  },
+  {
+    "industry": "Primary Metal Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag331.htm"
+  },
+  {
+    "industry": "Printing and Related Support Activities",
+    "url": "https://www.bls.gov/iag/tgs/iag323.htm"
+  },
+  {
+    "industry": "Private Households",
+    "url": "https://www.bls.gov/iag/tgs/iag814.htm"
+  },
+  {
+    "industry": "Professional, Scientific, and Technical Services",
+    "url": "https://www.bls.gov/iag/tgs/iag54.htm"
+  },
+  {
+    "industry": "Publishing Industries (except Internet)",
+    "url": "https://www.bls.gov/iag/tgs/iag511.htm"
+  },
+  {
+    "industry": "Rail Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag482.htm"
+  },
+  {
+    "industry": "Real Estate",
+    "url": "https://www.bls.gov/iag/tgs/iag531.htm"
+  },
+  {
+    "industry": "Real Estate and Rental and Leasing",
+    "url": "https://www.bls.gov/iag/tgs/iag53.htm"
+  },
+  {
+    "industry": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+    "url": "https://www.bls.gov/iag/tgs/iag813.htm"
+  },
+  {
+    "industry": "Rental and Leasing Services",
+    "url": "https://www.bls.gov/iag/tgs/iag532.htm"
+  },
+  {
+    "industry": "Repair and Maintenance",
+    "url": "https://www.bls.gov/iag/tgs/iag811.htm"
+  },
+  {
+    "industry": "Retail Trade",
+    "url": "https://www.bls.gov/iag/tgs/iag44-45.htm"
+  },
+  {
+    "industry": "Scenic and Sightseeing Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag487.htm"
+  },
+  {
+    "industry": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "url": "https://www.bls.gov/iag/tgs/iag523.htm"
+  },
+  {
+    "industry": "Social Assistance",
+    "url": "https://www.bls.gov/iag/tgs/iag624.htm"
+  },
+  {
+    "industry": "Specialty Trade Contractors",
+    "url": "https://www.bls.gov/iag/tgs/iag238.htm"
+  },
+  {
+    "industry": "Sporting Goods, Hobby, Book, and Music Stores",
+    "url": "https://www.bls.gov/iag/tgs/iag451.htm"
+  },
+  {
+    "industry": "Support Activities for Agriculture and Forestry",
+    "url": "https://www.bls.gov/iag/tgs/iag115.htm"
+  },
+  {
+    "industry": "Support Activities for Mining",
+    "url": "https://www.bls.gov/iag/tgs/iag213.htm"
+  },
+  {
+    "industry": "Support Activities for Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag488.htm"
+  },
+  {
+    "industry": "Telecommunications",
+    "url": "https://www.bls.gov/iag/tgs/iag517.htm"
+  },
+  {
+    "industry": "Textile Mills",
+    "url": "https://www.bls.gov/iag/tgs/iag313.htm"
+  },
+  {
+    "industry": "Textile Product Mills",
+    "url": "https://www.bls.gov/iag/tgs/iag314.htm"
+  },
+  {
+    "industry": "Transit and Ground Passenger Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag485.htm"
+  },
+  {
+    "industry": "Transportation Equipment Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag336.htm"
+  },
+  {
+    "industry": "Transportation and Warehousing",
+    "url": "https://www.bls.gov/iag/tgs/iag48-49.htm"
+  },
+  {
+    "industry": "Truck Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag484.htm"
+  },
+  {
+    "industry": "Utilities",
+    "url": "https://www.bls.gov/iag/tgs/iag22.htm"
+  },
+  {
+    "industry": "Warehousing and Storage",
+    "url": "https://www.bls.gov/iag/tgs/iag493.htm"
+  },
+  {
+    "industry": "Waste Management and Remediation Services",
+    "url": "https://www.bls.gov/iag/tgs/iag562.htm"
+  },
+  {
+    "industry": "Water Transportation",
+    "url": "https://www.bls.gov/iag/tgs/iag483.htm"
+  },
+  {
+    "industry": "Wholesale Electronic Markets and Agents and Brokers",
+    "url": "https://www.bls.gov/iag/tgs/iag425.htm"
+  },
+  {
+    "industry": "Wholesale Trade",
+    "url": "https://www.bls.gov/iag/tgs/iag42.htm"
+  },
+  {
+    "industry": "Wood Product Manufacturing",
+    "url": "https://www.bls.gov/iag/tgs/iag321.htm"
+  }
+]
