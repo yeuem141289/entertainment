@@ -1068,7 +1068,7 @@
     "payload": "1,000 kg (2,205 lb) or 12 troops",
     "description": "The Z-20 is China's domestically developed medium utility helicopter, broadly comparable to the UH-60 Black Hawk, featuring a five-blade composite rotor, tail rotor, and fly-by-wire controls. It entered service with the PLA Army, Navy, and Air Force from 2019.",
     "historicalBackground": "Development followed China's acquisition of 24 S-70C Black Hawks in 1984, many of which were reversed-engineered. The Z-20 first appeared publicly in 2013, entered service c.2019, and is steadily replacing the imported S-70 in Chinese military service. A naval variant is carrier-deployable.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Z-20_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Z-20_Airshow_China_2022_fly.jpg/1280px-Z-20_Airshow_China_2022_fly.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "PLA exercises – South China Sea (2020–present)",
       "PLA 2019 National Day parade"
@@ -1123,7 +1123,7 @@
     "payload": "1,170 kg (2,580 lb)",
     "description": "The HH-60G Pave Hawk is the USAF's Combat Search and Rescue helicopter, equipped with terrain-following radar, FLIR, GPS, in-flight refueling probe, and comprehensive ECM. It is designed to penetrate enemy airspace at night and low altitude to recover downed aircrew.",
     "historicalBackground": "Modified from the UH-60 Black Hawk specifically for CSAR and special operations in the 1980s, the Pave Hawk first deployed to combat in Panama in 1989. It gained fame during the Gulf War and was the helicopter used in the failed Iranian hostage rescue precursor planning. The HH-60W Jolly Green II succeeds it.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HH-60G_Pave_Hawk.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HH-60G_Pave_Hawk_helicopter_operated_by_the_56th_Rescue_Squadron.jpg/1280px-HH-60G_Pave_Hawk_helicopter_operated_by_the_56th_Rescue_Squadron.jpg",
     "famousMissions": [
       "Operation Desert Storm CSAR (1991)",
       "Somalia – Task Force Ranger support (1993)",
@@ -1147,7 +1147,7 @@
     "payload": "272 kg (600 lb)",
     "description": "The MQ-8 Fire Scout is the US Navy's ship-launched unmanned helicopter, capable of autonomous takeoff and landing on moving vessels. It provides persistent ISR (intelligence, surveillance, reconnaissance) and can be armed with laser-guided rockets for strike missions.",
     "historicalBackground": "Developed from Schweizer's civil helicopter by Northrop Grumman, the Fire Scout first flew in 2000. The B variant (based on the Bell 407 airframe) carries more payload and has greater range. It deployed to Afghanistan in 2011, and has supported anti-narcotics operations in the Caribbean.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MQ-8B_Fire_Scout.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110930-N-JQ696-401_An_MQ-8B_Fire_Scout_unmanned_aerial_vehicle_%28cropped%29.jpg/1280px-US_Navy_110930-N-JQ696-401_An_MQ-8B_Fire_Scout_unmanned_aerial_vehicle_%28cropped%29.jpg",
     "famousMissions": [
       "USS Halyburton counter-piracy operations (2010)",
       "Afghanistan ISR support (2011)",
@@ -1171,7 +1171,7 @@
     "payload": "2,100 kg (4,630 lb) or 12 passengers",
     "description": "The PZL W-3 Sokół (Falcon) is Poland's only domestically designed and produced helicopter, unique in Eastern Europe as a completely indigenous design — not a Soviet licence copy. It serves the Polish Army, Border Guard, Navy, Police, and SAR services.",
     "historicalBackground": "Development began in the 1970s, remarkable for a communist-era country producing its own helicopter outside Soviet licensed designs. The Sokół first flew in 1979 and entered service in 1985. It was exported to Myanmar and South Korea. An armed variant, the W-3W Głuszec, carries anti-tank missiles.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PZL_W-3_Sokol.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PZL_W-3T_Polish_Navy.jpg/1280px-PZL_W-3T_Polish_Navy.jpg?utm_source=pl.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "Polish Navy Baltic Sea SAR operations",
       "POLCON UN mission in Lebanon",
@@ -1199,7 +1199,7 @@
     "payload": "1,200 kg (2,645 lb) weapons",
     "description": "The AW129 Mangusta (Mongoose) is Europe's first dedicated attack helicopter, developed exclusively for Italy. Armed with a 20mm cannon, Hellfire missiles, Stinger air-to-air missiles, and rockets, it participated in multiple NATO operations in the Balkans and Afghanistan.",
     "historicalBackground": "Development began in 1978 as Italy sought a home-grown attack helicopter. The Mangusta first flew in 1983 and entered Italian Army service in 1990. It saw its first combat in Somalia in 1993 and later served in Albania, Bosnia, and Afghanistan with Italian and Turkish variants.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AgustaWestland_A129_Mangusta.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/20150506052017%21Agusta_A129A_Mangusta%2C_Italy_-_Army_%28cropped%29.jpg/1280px-20150506052017%21Agusta_A129A_Mangusta%2C_Italy_-_Army_%28cropped%29.jpg",
     "famousMissions": [
       "Operation Restore Hope – Somalia (1993)",
       "Operation Alba – Albania (1997)",
