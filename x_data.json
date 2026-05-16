@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "ah64Apache",
+    "name": "AH-64 Apache",
+    "manufacturer": "Boeing",
+    "country": "United States",
+    "firstFlight": "1975",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (GE T700-GE-701C)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "293 km/h (182 mph)",
+    "range": "476 km (296 mi)",
+    "ceiling": "6,400 m (21,000 ft)",
+    "payload": "771 kg (1,700 lb)",
+    "description": "The AH-64 Apache is the US Army's primary attack helicopter, armed with a 30mm M230 chain gun, AGM-114 Hellfire missiles, and 70mm Hydra rockets. Its advanced target acquisition and night vision systems make it lethal in all weather conditions.",
+    "historicalBackground": "Developed in the 1970s as a replacement for the AH-1 Cobra, the Apache first flew in September 1975 and entered service in 1986. It gained worldwide fame during Operation Desert Storm in 1991, where Apache crews flew the first shots of the war against Iraqi radar sites.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/1280px-AH-64D_Apache_Longbow.jpg",
+    "famousMissions": [
+      "Operation Desert Storm (1991)",
+      "Operation Iraqi Freedom (2003)",
+      "Operation Enduring Freedom (2001)"
+    ],
+    "exportCountries": [
+      "Israel",
+      "United Kingdom",
+      "Netherlands",
+      "Japan",
+      "Saudi Arabia",
+      "Egypt",
+      "South Korea"
+    ]
+  },
+  {
+    "id": "uh60BlackHawk",
+    "name": "UH-60 Black Hawk",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1974",
+    "role": "Utility Transport",
+    "crew": "2–4",
+    "engineType": "Twin turboshaft (GE T700-GE-701D)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "294 km/h (183 mph)",
+    "range": "600 km (370 mi)",
+    "ceiling": "5,790 m (19,000 ft)",
+    "payload": "1,170 kg (2,580 lb) internal",
+    "description": "The UH-60 Black Hawk is the US Army's workhorse utility helicopter, capable of carrying 11 combat-equipped soldiers. It serves in assault, medevac, VIP transport, special operations, and disaster relief roles across more than 25 countries.",
+    "historicalBackground": "Winner of the Army's UTTAS competition in 1976, the Black Hawk replaced the UH-1 Huey. It debuted in combat in Grenada in 1983 and became internationally known after the Battle of Mogadishu in 1993, depicted in the book and film 'Black Hawk Down'.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blackhawk.jpg/1920px-Blackhawk.jpg",
+    "famousMissions": [
+      "Operation Urgent Fury – Grenada (1983)",
+      "Battle of Mogadishu (1993)",
+      "Operation Neptune Spear – Bin Laden raid (2011)"
+    ],
+    "exportCountries": [
+      "Australia",
+      "Japan",
+      "Israel",
+      "Mexico",
+      "Colombia",
+      "South Korea",
+      "Turkey"
+    ]
+  },
+  {
+    "id": "ch47Chinook",
+    "name": "CH-47 Chinook",
+    "manufacturer": "Boeing",
+    "country": "United States",
+    "firstFlight": "1961",
+    "role": "Heavy Lift Transport",
+    "crew": "3",
+    "engineType": "Twin turboshaft (Lycoming T55-GA-714A)",
+    "rotorConfig": "Tandem rotor",
+    "maxSpeed": "315 km/h (196 mph)",
+    "range": "741 km (460 mi)",
+    "ceiling": "6,096 m (20,000 ft)",
+    "payload": "10,886 kg (24,000 lb) slung",
+    "description": "The CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter capable of transporting 33–55 troops or up to 10,886 kg of cargo. Its distinctive tandem rotor eliminates the need for a tail rotor, providing exceptional stability at high altitudes.",
+    "historicalBackground": "Developed in the late 1950s, the Chinook first flew in 1961 and entered US Army service in 1962. It served extensively in the Vietnam War as the primary heavy-lift helicopter. Continuously upgraded, the CH-47F remains in production more than 60 years later.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/1280px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
+    "famousMissions": [
+      "Vietnam War resupply operations (1965–1975)",
+      "Operation Anaconda – Afghanistan (2002)",
+      "Hurricane Katrina relief (2005)"
+    ],
+    "exportCountries": [
+      "United Kingdom",
+      "Australia",
+      "Italy",
+      "Netherlands",
+      "Japan",
+      "Canada",
+      "Spain"
+    ]
+  },
+  {
+    "id": "mi24Hind",
+    "name": "Mi-24 Hind",
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "country": "Russia",
+    "firstFlight": "1969",
+    "role": "Attack / Transport",
+    "crew": "2 + 8 troops",
+    "engineType": "Twin turboshaft (Isotov TV3-117)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "335 km/h (208 mph)",
+    "range": "450 km (280 mi)",
+    "ceiling": "4,500 m (14,760 ft)",
+    "payload": "1,500 kg (3,307 lb)",
+    "description": "The Mi-24 Hind is a large attack and assault helicopter famous for its heavily armored fuselage and ability to carry both weapons and troops simultaneously — a combination unique among combat helicopters. NATO pilots nicknamed it the 'Devil's Chariot'.",
+    "historicalBackground": "Designed in the late 1960s under Mikhail Mil, the Mi-24 entered Soviet service in 1972. It became a feared weapon during the Soviet-Afghan War (1979–1989), where its armored body proved surprisingly resilient. It has seen combat in over 30 conflicts worldwide.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Russian_Air_Force_Mil_Mi-24PN_Dvurekov-6.jpg",
+    "famousMissions": [
+      "Soviet-Afghan War (1979–1989)",
+      "First Chechen War (1994–1996)",
+      "Angolan Civil War",
+      "Gulf War (Iraq)"
+    ],
+    "exportCountries": [
+      "India",
+      "Algeria",
+      "Libya",
+      "Ethiopia",
+      "Hungary",
+      "Czech Republic",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "id": "nh90",
+    "name": "NH90",
+    "manufacturer": "NHIndustries (Airbus / Leonardo / NHI)",
+    "country": "Europe (Multi-national)",
+    "firstFlight": "1995",
+    "role": "Utility Transport / Naval",
+    "crew": "2",
+    "engineType": "Twin turboshaft (RTM322 or GE T700)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "300 km/h (186 mph)",
+    "range": "800 km (500 mi)",
+    "ceiling": "3,200 m (10,500 ft)",
+    "payload": "2,500 kg (5,511 lb)",
+    "description": "The NH90 is a medium-sized, twin-engine military helicopter developed by a NATO consortium. Available in a tactical transport (TTH) and naval frigate helicopter (NFH) variant, it features a full fly-by-wire control system and composite airframe.",
+    "historicalBackground": "Developed in response to a 1985 NATO requirement, the NH90 is one of the largest collaborative helicopter programs in history. It entered service with Germany, France, Italy, and the Netherlands in the mid-2000s. Finland controversially cancelled its order in 2022 citing performance issues.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg/1280px-French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg",
+    "famousMissions": [
+      "ISAF – Afghanistan",
+      "EU NAVFOR – Operation Atalanta",
+      "2010 Haiti earthquake relief"
+    ],
+    "exportCountries": [
+      "Germany",
+      "France",
+      "Italy",
+      "Netherlands",
+      "Norway",
+      "Finland",
+      "Australia",
+      "New Zealand"
+    ]
+  },
+  {
+    "id": "ec135",
+    "name": "EC135 / H135",
+    "manufacturer": "Airbus Helicopters",
+    "country": "Germany / France",
+    "firstFlight": "1994",
+    "role": "Light Utility / EMS / Police",
+    "crew": "1–2",
+    "engineType": "Twin turboshaft (Pratt & Whitney PW206 or Turboméca Arrius)",
+    "rotorConfig": "Single main rotor + Fenestron tail rotor",
+    "maxSpeed": "259 km/h (161 mph)",
+    "range": "635 km (394 mi)",
+    "ceiling": "3,048 m (10,000 ft)",
+    "payload": "907 kg (2,000 lb)",
+    "description": "The EC135 is one of the world's most popular twin-engine light helicopters, widely used for emergency medical services, police, offshore, and VIP transport. Its Fenestron shrouded tail rotor makes it exceptionally quiet and safe around populated areas.",
+    "historicalBackground": "Derived from the Bo 105 and BK 117 lineage, the EC135 first flew in 1994 and has been delivered to operators in more than 50 countries. It is the primary training helicopter for many military pilots and is used extensively by Germany's ADAC air rescue service.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/EC-135_-_RIAT_2011_%286199185182%29.jpg/1280px-EC-135_-_RIAT_2011_%286199185182%29.jpg",
+    "famousMissions": [
+      "German ADAC air rescue operations",
+      "UK Air Ambulance network",
+      "US Army Trainer (TH-72A)"
+    ],
+    "exportCountries": [
+      "United States",
+      "United Kingdom",
+      "Australia",
+      "Japan",
+      "Norway",
+      "Switzerland",
+      "Brazil"
+    ]
+  },
+  {
+    "id": "sh60Seahawk",
+    "name": "SH-60 Seahawk",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1979",
+    "role": "Naval / ASW / SAR",
+    "crew": "3–4",
+    "engineType": "Twin turboshaft (GE T700-GE-401C)",
+    "rotorConfig": "Single main rotor + tail rotor (foldable)",
+    "maxSpeed": "267 km/h (166 mph)",
+    "range": "834 km (518 mi)",
+    "ceiling": "5,791 m (19,000 ft)",
+    "payload": "2,858 kg (6,300 lb) slung",
+    "description": "The SH-60 Seahawk is the naval variant of the Black Hawk, serving as the US Navy's primary shipborne helicopter for anti-submarine warfare, anti-ship missiles, search and rescue, and special operations. Its folding rotors allow storage on small frigate decks.",
+    "historicalBackground": "Selected in 1977 to replace the SH-2 Seasprite, the Seahawk first flew in 1979 and entered service in 1984. The MH-60R 'Romeo' variant, introduced in 2005, is considered the world's most capable maritime helicopter, integrating radar, sonar, and weapons in one platform.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SH-60B_Seahawk2.jpg/1280px-SH-60B_Seahawk2.jpg",
+    "famousMissions": [
+      "Gulf War – anti-surface operations (1991)",
+      "USS Cole attack response (2000)",
+      "Pacific anti-submarine patrols"
+    ],
+    "exportCountries": [
+      "Japan",
+      "Australia",
+      "Denmark",
+      "Spain",
+      "Greece",
+      "Turkey",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "id": "mi8Hip",
+    "name": "Mi-8 Hip",
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "country": "Russia",
+    "firstFlight": "1961",
+    "role": "Medium Transport",
+    "crew": "2–3",
+    "engineType": "Twin turboshaft (Klimov TV3-117VM)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "250 km/h (155 mph)",
+    "range": "480 km (298 mi)",
+    "ceiling": "4,500 m (14,760 ft)",
+    "payload": "4,000 kg (8,818 lb) or 24 passengers",
+    "description": "The Mi-8 is the world's most produced helicopter, with over 17,000 built. It serves in military, civilian, VIP, firefighting, Antarctic, and armed gunship roles. Its robust construction and simple maintenance have made it indispensable in harsh environments from the Arctic to Africa.",
+    "historicalBackground": "Designed by Mikhail Mil and first flown in 1961, the Mi-8 was intended as a successor to the piston-powered Mi-4. It entered Soviet service in 1967 and became a Cold War staple, equipping the air forces of nearly every Warsaw Pact nation and dozens of developing countries.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mil_Mi-8P%2C_Baltic_Airlines_%28cropped%29.jpg",
+    "famousMissions": [
+      "Soviet-Afghan War (1979–1989)",
+      "Chernobyl disaster response (1986)",
+      "UN peacekeeping in Africa and the Balkans"
+    ],
+    "exportCountries": [
+      "India",
+      "China",
+      "Cuba",
+      "Egypt",
+      "Ethiopia",
+      "Pakistan",
+      "North Korea",
+      "Peru"
+    ]
+  },
+  {
+    "id": "ch53SeaStallion",
+    "name": "CH-53E Super Stallion",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1974",
+    "role": "Heavy Lift Transport",
+    "crew": "3",
+    "engineType": "Three turboshaft (GE T64-GE-416)",
+    "rotorConfig": "Single main rotor (7 blades) + tail rotor",
+    "maxSpeed": "315 km/h (196 mph)",
+    "range": "1,000 km (621 mi)",
+    "ceiling": "5,640 m (18,500 ft)",
+    "payload": "16,330 kg (36,000 lb) slung",
+    "description": "The CH-53E Super Stallion is the US military's largest and heaviest helicopter, capable of lifting 90% of all Marine Corps equipment. Its three engines and seven-blade rotor provide unmatched heavy-lift capacity for the amphibious assault mission.",
+    "historicalBackground": "Developed from the twin-engine CH-53D, the three-engine Super Stallion first flew in 1974 and entered Marine Corps service in 1981. It has served as the backbone of USMC heavy lift for four decades. Its successor, the CH-53K King Stallion, began deliveries in 2018.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sikorsky_CH-53E_%28USMC%29_402.jpg/1280px-Sikorsky_CH-53E_%28USMC%29_402.jpg",
+    "famousMissions": [
+      "Operation Just Cause – Panama (1989)",
+      "Operation Desert Storm (1991)",
+      "2010 Haiti earthquake relief"
+    ],
+    "exportCountries": [
+      "Israel (CH-53D)",
+      "Germany (CH-53G)"
+    ]
+  },
+  {
+    "id": "aw101Merlin",
+    "name": "AW101 Merlin",
+    "manufacturer": "Leonardo (AgustaWestland)",
+    "country": "Italy / United Kingdom",
+    "firstFlight": "1987",
+    "role": "Naval ASW / Transport / VIP",
+    "crew": "3",
+    "engineType": "Three turboshaft (Rolls-Royce/Turbomeca RTM322)",
+    "rotorConfig": "Single main rotor (5 blades) + tail rotor",
+    "maxSpeed": "309 km/h (192 mph)",
+    "range": "1,000 km (620 mi)",
+    "ceiling": "4,575 m (15,000 ft)",
+    "payload": "5,443 kg (12,000 lb)",
+    "description": "The AW101 Merlin is a large, three-engine helicopter used in naval anti-submarine warfare, VIP transport, and combat search and rescue. The RAF and Royal Navy operate it as the Merlin HC3 and HM2 respectively. It serves as Marine One alternative for the Italian president.",
+    "historicalBackground": "A joint development between Agusta and Westland beginning in the 1980s, the EH101 (later AW101) first flew in 1987. After a lengthy development, it entered service with the Royal Navy in 1999. Canada controversially cancelled then reinstated its Cyclone variant order.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/AgustaWestland_HH-101A_Caesar_%28cropped%29.jpg/1280px-AgustaWestland_HH-101A_Caesar_%28cropped%29.jpg",
+    "famousMissions": [
+      "Royal Navy ASW patrols – North Atlantic",
+      "Operation Ellamy – Libya (2011)",
+      "UK VIP transport (HM The King)"
+    ],
+    "exportCountries": [
+      "United Kingdom",
+      "Italy",
+      "Denmark",
+      "Portugal",
+      "Japan",
+      "Algeria",
+      "Norway"
+    ]
+  },
+  {
+    "id": "ka52Alligator",
+    "name": "Ka-52 Alligator",
+    "manufacturer": "Kamov",
+    "country": "Russia",
+    "firstFlight": "1996",
+    "role": "Attack / Scout",
+    "crew": "2 (side-by-side)",
+    "engineType": "Twin turboshaft (Klimov VK-2500)",
+    "rotorConfig": "Coaxial counter-rotating rotors",
+    "maxSpeed": "300 km/h (186 mph)",
+    "range": "460 km (286 mi)",
+    "ceiling": "5,500 m (18,045 ft)",
+    "payload": "2,000 kg (4,409 lb) weapons",
+    "description": "The Ka-52 is Russia's frontline attack helicopter, unique for its side-by-side cockpit seating and coaxial rotor system requiring no tail rotor. Armed with a 30mm cannon, Vikhr anti-tank missiles, and unguided rockets, it serves as both scout and attack platform.",
+    "historicalBackground": "Developed from the Ka-50 Black Shark in the 1990s, the Ka-52 first flew in 1996 but budget constraints delayed service entry until 2011. The coaxial design is a hallmark of Kamov, eliminating tail rotor torque and improving agility. Egypt became the first export customer in 2015.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kamov_Ka-52%2C_Russia_-_Air_Force_AN1610872.jpg",
+    "famousMissions": [
+      "Syria Civil War (2015–present)",
+      "Ukraine War (2022–present)"
+    ],
+    "exportCountries": [
+      "Egypt"
+    ]
+  },
+  {
+    "id": "tigerHAD",
+    "name": "Tiger HAD",
+    "manufacturer": "Airbus Helicopters",
+    "country": "France / Germany",
+    "firstFlight": "1991",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (MTU/Rolls-Royce/Turbomeca MTR390)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "290 km/h (180 mph)",
+    "range": "800 km (497 mi)",
+    "ceiling": "4,000 m (13,120 ft)",
+    "payload": "1,360 kg (2,998 lb) weapons",
+    "description": "The Tiger is Europe's primary attack helicopter, built for Germany, France, Spain, and Australia. The HAD (Hélicoptère d'Appui Destruction) variant carries the Mistral air-to-air missile and Hellfire, making it highly capable in both anti-armour and air combat roles.",
+    "historicalBackground": "A Franco-German program launched in 1984, the Tiger overcame Cold War-era procurement disputes to first fly in 1991. Australia acquired the ARH variant in 2004. France deployed Tigers to Afghanistan in 2009 — their first combat operation — and later to Mali and Libya.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eurocopter_LE_TIGRE_-_Flickr_-_besopha.jpg/1280px-Eurocopter_LE_TIGRE_-_Flickr_-_besopha.jpg",
+    "famousMissions": [
+      "Operation Enduring Freedom – Afghanistan (2009)",
+      "Operation Harmattan – Libya (2011)",
+      "Operation Barkhane – Mali"
+    ],
+    "exportCountries": [
+      "Germany",
+      "Spain",
+      "Australia"
+    ]
+  },
+  {
+    "id": "aw139",
+    "name": "AW139",
+    "manufacturer": "Leonardo Helicopters",
+    "country": "Italy",
+    "firstFlight": "2001",
+    "role": "Multi-role Utility / SAR / Offshore",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Pratt & Whitney PT6C-67C)",
+    "rotorConfig": "Single main rotor (5 blades) + tail rotor",
+    "maxSpeed": "306 km/h (190 mph)",
+    "range": "1,061 km (659 mi)",
+    "ceiling": "6,096 m (20,000 ft)",
+    "payload": "2,000 kg (4,409 lb)",
+    "description": "The AW139 is a medium-large twin-engine helicopter highly regarded in offshore oil, SAR, law enforcement, EMS, and VIP transport. With 15 passengers capacity and exceptional range, it has become one of the most commercially successful helicopters of the 21st century.",
+    "historicalBackground": "Developed jointly by AgustaWestland and Bell (as the AB139) before Leonardo took full control, the AW139 first flew in 2001. The US Presidential helicopter fleet (VH-92, based on S-92) beat out an AW101 variant. Over 1,000 AW139s are in service worldwide.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Augusta_Westland_AW-139_EC-KXA_de_Helimer%2C_Salvamento_Mar%C3%ADtimo_%28cropped%29.jpg/1280px-Augusta_Westland_AW-139_EC-KXA_de_Helimer%2C_Salvamento_Mar%C3%ADtimo_%28cropped%29.jpg",
+    "famousMissions": [
+      "Irish Coast Guard SAR operations",
+      "Abu Dhabi police operations",
+      "Offshore North Sea support"
+    ],
+    "exportCountries": [
+      "United States",
+      "UAE",
+      "Nigeria",
+      "China",
+      "Iran",
+      "Kazakhstan",
+      "Brazil"
+    ]
+  },
+  {
+    "id": "robinsonR44",
+    "name": "Robinson R44 Raven",
+    "manufacturer": "Robinson Helicopter Company",
+    "country": "United States",
+    "firstFlight": "1990",
+    "role": "Light / Training / Private",
+    "crew": "1 + 3 passengers",
+    "engineType": "Single piston (Lycoming O-540 or IO-540)",
+    "rotorConfig": "Semi-rigid two-blade main rotor + tail rotor",
+    "maxSpeed": "240 km/h (150 mph)",
+    "range": "563 km (350 mi)",
+    "ceiling": "4,267 m (14,000 ft)",
+    "payload": "295 kg (650 lb)",
+    "description": "The Robinson R44 is the world's best-selling general aviation helicopter, widely used for private ownership, flight training, news gathering, and light utility work. Its affordable purchase price and operating costs have democratized helicopter ownership worldwide.",
+    "historicalBackground": "Designed by Frank Robinson following the R22, the R44 first flew in 1990 and entered production in 1993. It quickly became the top-selling helicopter in the world. The R44 Cadet (2-seat trainer) and Newscopter variants have expanded its market reach significantly.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Robinson_R44_II_%28cropped%29.jpg/1280px-Robinson_R44_II_%28cropped%29.jpg",
+    "famousMissions": [
+      "Civilian pilot training worldwide",
+      "TV news gathering operations",
+      "Agricultural and mustering work (Australia)"
+    ],
+    "exportCountries": [
+      "Australia",
+      "United Kingdom",
+      "Brazil",
+      "Russia",
+      "China",
+      "South Africa",
+      "New Zealand"
+    ]
+  },
+  {
+    "id": "ah1ZViper",
+    "name": "AH-1Z Viper",
+    "manufacturer": "Bell Helicopter",
+    "country": "United States",
+    "firstFlight": "2000",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (GE T700-GE-401C)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "411 km/h (255 mph)",
+    "range": "685 km (426 mi)",
+    "ceiling": "6,100 m (20,000 ft)",
+    "payload": "2,948 kg (6,500 lb) weapons",
+    "description": "The AH-1Z Viper is the US Marine Corps' primary attack helicopter, a radical upgrade of the Vietnam-era AH-1 Cobra with a new four-blade composite rotor, twin-engine power, and a targeting system equal to the Apache's. It can also engage air targets with Sidewinder missiles.",
+    "historicalBackground": "The AH-1Z emerged from the H-1 upgrade program that modernised the USMC's Cobra fleet. Sharing 84% common parts with the UH-1Y, it simplified Marine logistics. It first flew in 2000, entered service in 2010, and saw combat in Afghanistan the same year.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg/1280px-AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg",
+    "famousMissions": [
+      "Operation Enduring Freedom – Afghanistan (2010–2014)",
+      "Combat operations in Syria"
+    ],
+    "exportCountries": [
+      "Pakistan",
+      "Bahrain",
+      "Czech Republic"
+    ]
+  },
+  {
+    "id": "h225M",
+    "name": "H225M Caracal",
+    "manufacturer": "Airbus Helicopters",
+    "country": "France",
+    "firstFlight": "2000",
+    "role": "Special Operations / CSAR / Transport",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Turbomeca Makila 2A1)",
+    "rotorConfig": "Single main rotor (5 blades) + tail rotor",
+    "maxSpeed": "324 km/h (201 mph)",
+    "range": "857 km (532 mi)",
+    "ceiling": "6,100 m (20,000 ft)",
+    "payload": "4,750 kg (10,472 lb) or 28 troops",
+    "description": "The H225M Caracal is a military transport and special operations helicopter used for combat SAR, special forces insertion, and long-range maritime patrol. Equipped with in-flight refueling capability, it can operate deep behind enemy lines with extended range.",
+    "historicalBackground": "Derived from the civilian EC225 Super Puma, the H225M entered French service in 2005. It gained notoriety in 2016 when the civilian variant was grounded after two North Sea fatal crashes due to a gearbox failure, but the military variant retained a clean safety record.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/French_Air_Force_EC725_lift_off.jpg/1280px-French_Air_Force_EC725_lift_off.jpg",
+    "famousMissions": [
+      "Operation Barkhane – Mali/Sahel",
+      "CSAR missions in Libya (2011)",
+      "French special forces operations"
+    ],
+    "exportCountries": [
+      "Brazil",
+      "Mexico",
+      "Thailand",
+      "Malaysia",
+      "Indonesia",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "id": "mi26Halo",
+    "name": "Mi-26 Halo",
+    "manufacturer": "Mil Moscow Helicopter Plant",
+    "country": "Russia",
+    "firstFlight": "1977",
+    "role": "Heavy Lift Transport",
+    "crew": "2 + 2 crew",
+    "engineType": "Twin turboshaft (Lotarev D-136)",
+    "rotorConfig": "Single main rotor (8 blades) + tail rotor",
+    "maxSpeed": "295 km/h (183 mph)",
+    "range": "800 km (497 mi)",
+    "ceiling": "4,600 m (15,091 ft)",
+    "payload": "20,000 kg (44,092 lb) slung",
+    "description": "The Mi-26 Halo is the world's largest and most powerful helicopter ever to have entered serial production. With a payload exceeding 20 tonnes and a cargo hold the size of a C-130 Hercules, it has no equivalent in Western aviation.",
+    "historicalBackground": "Developed to replace the Mi-6, the Mi-26 first flew in 1977 and entered Soviet military service in 1983. In 2002, one was used to extract a trapped Chinook from the mountains of Shankh, Afghanistan, by slinging it externally — the heaviest helicopter sling load in history.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mil_Mi-26.jpg/1280px-Mil_Mi-26.jpg",
+    "famousMissions": [
+      "Chernobyl disaster sarcophagus construction (1986)",
+      "Extraction of downed CH-47 in Afghanistan (2002)",
+      "Siberian wildfire fighting"
+    ],
+    "exportCountries": [
+      "India",
+      "Peru",
+      "South Korea",
+      "Kazakhstan",
+      "Algeria",
+      "North Korea"
+    ]
+  },
+  {
+    "id": "oh58Kiowa",
+    "name": "OH-58D Kiowa Warrior",
+    "manufacturer": "Bell Helicopter",
+    "country": "United States",
+    "firstFlight": "1963",
+    "role": "Armed Reconnaissance / Scout",
+    "crew": "2",
+    "engineType": "Single turboshaft (Allison 250-C30R/3)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "237 km/h (147 mph)",
+    "range": "491 km (305 mi)",
+    "ceiling": "4,566 m (14,980 ft)",
+    "payload": "907 kg (2,000 lb)",
+    "description": "The OH-58D Kiowa Warrior is an armed reconnaissance helicopter equipped with a mast-mounted sight ball above the rotor, allowing it to observe while hidden behind terrain. Armed with Hellfire missiles, Hydra rockets, and machine guns, it flew alongside Apaches as scout-attack teams.",
+    "historicalBackground": "Selected in 1968 to replace the OH-13 Sioux, the OH-58 flew in Vietnam. The D model with mast-mounted sight was introduced in the 1980s. The Kiowa Warrior saw extensive combat in the Gulf War, Somalia, Bosnia, Iraq, and Afghanistan before the US Army retired it in 2014.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/OH-58D_1st_Squadron%2C_17th_Cavalry_Regiment_%28cropped%29.jpg",
+    "famousMissions": [
+      "Operation Desert Storm (1991)",
+      "Battle of Mogadishu (1993)",
+      "Operation Iraqi Freedom (2003)"
+    ],
+    "exportCountries": [
+      "Taiwan",
+      "Saudi Arabia",
+      "UAE",
+      "Turkey"
+    ]
+  },
+  {
+    "id": "bo105",
+    "name": "Bo 105",
+    "manufacturer": "MBB / Airbus Helicopters",
+    "country": "Germany",
+    "firstFlight": "1967",
+    "role": "Light Utility / EMS / Attack",
+    "crew": "1–2",
+    "engineType": "Twin turboshaft (Allison 250-C20B)",
+    "rotorConfig": "Semi-rigid hingeless main rotor + tail rotor",
+    "maxSpeed": "270 km/h (168 mph)",
+    "range": "575 km (357 mi)",
+    "ceiling": "5,180 m (17,000 ft)",
+    "payload": "900 kg (1,984 lb)",
+    "description": "The Bo 105 was revolutionary as the world's first helicopter with a rigid rotor system, enabling aerobatic maneuvers such as inverted flight and loops. Small yet powerful, it served as an anti-tank helicopter carrying HOT missiles and as an EMS aircraft across 40 countries.",
+    "historicalBackground": "Designed by Ludwig Bölkow at MBB, the Bo 105 first flew in 1967 and became one of Germany's most significant aviation exports. Germany's military 'VBH' and 'PAH-1' variants served through the Cold War. Production ended in 2001 after more than 1,400 were built.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/MBB_BO-105CBS-5%2C_Luftrettung_-_Bundesministerium_des_Innern_%28modified%29.jpg",
+    "famousMissions": [
+      "German Army Cold War anti-tank patrols",
+      "ADAC air rescue service (Germany)",
+      "Mexican Navy coastal patrol"
+    ],
+    "exportCountries": [
+      "Germany",
+      "Spain",
+      "Philippines",
+      "Canada",
+      "Colombia",
+      "Nigeria",
+      "Indonesia"
+    ]
+  },
+  {
+    "id": "s76",
+    "name": "Sikorsky S-76",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1977",
+    "role": "Light / Medium Utility / VIP / Offshore",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Pratt & Whitney PW210S or Turbomeca Arriel 2S2)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "287 km/h (178 mph)",
+    "range": "761 km (473 mi)",
+    "ceiling": "4,724 m (15,500 ft)",
+    "payload": "1,633 kg (3,600 lb)",
+    "description": "The Sikorsky S-76 is a sleek twin-engine helicopter widely used for offshore oil platform transport, VIP and executive transport, EMS, and search and rescue. Kobe Bryant and seven others were killed in an S-76B crash in California in January 2020.",
+    "historicalBackground": "Sikorsky developed the S-76 'Spirit' as its first purpose-designed commercial helicopter, debuting in 1977. Queen Elizabeth II used the S-76 for British Royal Family transport for decades. The US Army operates a variant as the UH-72 Lakota trainer.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pesca_1_%283737941060%29.jpg/1280px-Pesca_1_%283737941060%29.jpg",
+    "famousMissions": [
+      "British Royal Family transport",
+      "North Sea offshore operations",
+      "Offshore Philippines / Nigeria oil support"
+    ],
+    "exportCountries": [
+      "United Kingdom",
+      "Philippines",
+      "Hong Kong",
+      "Japan",
+      "Sweden",
+      "Bahamas"
+    ]
+  },
+  {
+    "id": "as350Ecureuil",
+    "name": "AS350 / H125 Écureuil",
+    "manufacturer": "Airbus Helicopters",
+    "country": "France",
+    "firstFlight": "1974",
+    "role": "Light Utility / Police / EMS / Tourism",
+    "crew": "1",
+    "engineType": "Single turboshaft (Turbomeca Arriel 2D)",
+    "rotorConfig": "Single main rotor (3 blades) + Fenestron tail rotor",
+    "maxSpeed": "287 km/h (178 mph)",
+    "range": "666 km (414 mi)",
+    "ceiling": "7,010 m (23,000 ft)",
+    "payload": "1,021 kg (2,251 lb)",
+    "description": "The AS350 Écureuil (Squirrel) is one of the world's most popular single-engine turbine helicopters, prized for its high-altitude performance and versatility. In 2005, it became the first helicopter to land on the summit of Mount Everest.",
+    "historicalBackground": "Developed by Aérospatiale and first flown in 1974, the Écureuil was designed for high-hot-high performance. A US Army variant (OH-58) competition was lost to Bell but the AS350 found huge commercial success. Over 4,800 have been built in France and Brazil.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Helicopter_rescue_sancy_takeoff.jpg/1280px-Helicopter_rescue_sancy_takeoff.jpg",
+    "famousMissions": [
+      "Mount Everest summit landing (2005)",
+      "High-altitude Himalayan rescue operations",
+      "New York police aviation (NYPD)"
+    ],
+    "exportCountries": [
+      "United States",
+      "Australia",
+      "Brazil",
+      "New Zealand",
+      "Japan",
+      "Kenya",
+      "Switzerland"
+    ]
+  },
+  {
+    "id": "ch53kKingStallion",
+    "name": "CH-53K King Stallion",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "2015",
+    "role": "Heavy Lift Transport",
+    "crew": "3",
+    "engineType": "Three turboshaft (GE T408-GE-400)",
+    "rotorConfig": "Single main rotor (7 composite blades) + tail rotor",
+    "maxSpeed": "315 km/h (196 mph)",
+    "range": "1,000 km (621 mi)",
+    "ceiling": "5,640 m (18,500 ft)",
+    "payload": "27,000 kg (59,525 lb) slung",
+    "description": "The CH-53K King Stallion is the world's most powerful helicopter, with three times the lift capacity of its predecessor. Designed for the USMC, it can carry 27 tonnes on its external hook, enabling it to lift virtually any Marine Corps vehicle or artillery piece.",
+    "historicalBackground": "Program begun in 2006 as a replacement for the aging CH-53E, the King Stallion first flew in 2015. With advanced fly-by-wire, composite rotor blades, and new engines producing 7,500 shaft horsepower each, it represents a generation leap over all predecessors. IOC achieved in 2022.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CH-53K_King_Stallion_prepares_to_land_at_Sikorsky_Aircraft_Corporation_on_%28modified%29%29.jpg/1280px-CH-53K_King_Stallion_prepares_to_land_at_Sikorsky_Aircraft_Corporation_on_%28modified%29%29.jpg",
+    "famousMissions": [
+      "USMC amphibious assault exercises (post-2022)"
+    ],
+    "exportCountries": [
+      "Israel (planned)"
+    ]
+  },
+  {
+    "id": "bell206JetRanger",
+    "name": "Bell 206 JetRanger",
+    "manufacturer": "Bell Helicopter",
+    "country": "United States",
+    "firstFlight": "1962",
+    "role": "Light Utility / Training / Police / News",
+    "crew": "1 + 4 passengers",
+    "engineType": "Single turboshaft (Allison 250-C20J)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "225 km/h (140 mph)",
+    "range": "748 km (465 mi)",
+    "ceiling": "4,115 m (13,500 ft)",
+    "payload": "630 kg (1,389 lb)",
+    "description": "The Bell 206 JetRanger is an iconic light turbine helicopter that has appeared in more films and television shows than any other helicopter in history. With over 7,300 built, it is used worldwide for pilot training, police patrol, news gathering, offshore support, and private transport.",
+    "historicalBackground": "Originally designed as the OH-4A for the Army's LOH competition (which it lost to the Hughes OH-6), Bell refined it into the commercial JetRanger in 1966. The US Army subsequently ordered it as the OH-58 Kiowa. The JetRanger starred in Magnum P.I., Airwolf, and Blue Thunder.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bell_206B-3_JetRanger_III.jpg/1280px-Bell_206B-3_JetRanger_III.jpg",
+    "famousMissions": [
+      "US Army Vietnam-era scout missions (OH-58)",
+      "LAPD air support operations",
+      "News helicopter coverage worldwide"
+    ],
+    "exportCountries": [
+      "Australia",
+      "Canada",
+      "Italy",
+      "Sweden",
+      "Iran",
+      "Iraq",
+      "South Korea"
+    ]
+  },
+  {
+    "id": "a109Power",
+    "name": "AW109 Power",
+    "manufacturer": "Leonardo Helicopters",
+    "country": "Italy",
+    "firstFlight": "1971",
+    "role": "Light Utility / Military / VIP / EMS",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Pratt & Whitney PW207C)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "285 km/h (177 mph)",
+    "range": "932 km (579 mi)",
+    "ceiling": "5,997 m (19,675 ft)",
+    "payload": "907 kg (2,000 lb)",
+    "description": "The AW109 is Italy's premier twin-engine light helicopter, known for its sleek aerodynamic design and high performance. It serves as Belgium's army scout helicopter, and the Italian Army flies an armed version with rockets and anti-tank missiles.",
+    "historicalBackground": "Agusta's first twin-engine helicopter design, the A109 first flew in 1971 after a lengthy development. The A109 achieved worldwide fame when one was used by the Belgian Air Component to rush a donor heart to a transplant. The Belgian military operates armed A109s in the scout role.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/RAF_A109.jpg",
+    "famousMissions": [
+      "Belgian Army light attack/scout operations",
+      "Swiss Air-Rescue (Rega) mountain operations",
+      "Argentine Navy maritime patrol"
+    ],
+    "exportCountries": [
+      "Belgium",
+      "Switzerland",
+      "Nigeria",
+      "South Africa",
+      "Australia",
+      "USA"
+    ]
+  },
+  {
+    "id": "lynxAH9",
+    "name": "Westland Lynx",
+    "manufacturer": "Westland / AgustaWestland",
+    "country": "United Kingdom",
+    "firstFlight": "1971",
+    "role": "Naval / Utility / Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Rolls-Royce Gem or LHTEC CTS800)",
+    "rotorConfig": "Semi-rigid hingeless main rotor (4 blades) + tail rotor",
+    "maxSpeed": "324 km/h (201 mph)",
+    "range": "528 km (328 mi)",
+    "ceiling": "3,230 m (10,600 ft)",
+    "payload": "907 kg (2,000 lb)",
+    "description": "The Lynx is a compact British helicopter that held the world absolute speed record for helicopters at 400.87 km/h from 1986 to 2013. Its semi-rigid rotor gives it outstanding agility. It serves in the naval ASW/ASuW and army utility roles across 11 nations.",
+    "historicalBackground": "Developed jointly by Westland and Aérospatiale in the early 1970s, the Lynx first flew in 1971. It entered Royal Navy service in 1976 and British Army service in 1978. During the Falklands War, a Royal Navy Lynx sank an Argentine patrol boat with Sea Skua missiles.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/British_Lynx_landing_on_Kearsarge.jpg/1280px-British_Lynx_landing_on_Kearsarge.jpg",
+    "famousMissions": [
+      "Falklands War – ARA Alferez Sobral sinking (1982)",
+      "Gulf War – anti-shipping patrols (1991)",
+      "Somalia – Operation Restore Hope"
+    ],
+    "exportCountries": [
+      "France",
+      "Denmark",
+      "Netherlands",
+      "Germany",
+      "Brazil",
+      "South Korea",
+      "Portugal"
+    ]
+  },
+  {
+    "id": "uh1Huey",
+    "name": "Bell UH-1 Iroquois (Huey)",
+    "manufacturer": "Bell Helicopter",
+    "country": "United States",
+    "firstFlight": "1956",
+    "role": "Utility Transport / Attack / Medevac",
+    "crew": "2–4",
+    "engineType": "Single turboshaft (Lycoming T53 or Bell T5309)",
+    "rotorConfig": "Two-blade semi-rigid rotor + tail rotor",
+    "maxSpeed": "220 km/h (135 mph)",
+    "range": "510 km (315 mi)",
+    "ceiling": "3,840 m (12,600 ft)",
+    "payload": "1,759 kg (3,880 lb)",
+    "description": "The UH-1 Huey is the defining helicopter of the Vietnam War era, its distinctive two-blade 'wop-wop' sound instantly recognisable. Over 16,000 were built, making it the most produced military helicopter in Western history. It served as medevac, troop carrier, and gunship.",
+    "historicalBackground": "Winner of the Army's 1955 utility helicopter competition, the HU-1 (later UH-1) first flew in 1956 and entered service in 1959. During the Vietnam War, the Huey became the symbol of American military intervention. The Bell 204/205/212 family continues in production today.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/UH1_Huey_-_Fly_Navy_2017_%2826938005897%29.jpg/1280px-UH1_Huey_-_Fly_Navy_2017_%2826938005897%29.jpg",
+    "famousMissions": [
+      "Vietnam War medevac and air assault (1962–1975)",
+      "Operation Urgent Fury – Grenada (1983)",
+      "Korean DMZ border patrols"
+    ],
+    "exportCountries": [
+      "Australia",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Israel",
+      "Taiwan",
+      "South Korea",
+      "Japan"
+    ]
+  },
+  {
+    "id": "ka27Helix",
+    "name": "Ka-27 Helix",
+    "manufacturer": "Kamov",
+    "country": "Russia",
+    "firstFlight": "1973",
+    "role": "Naval ASW / SAR",
+    "crew": "3",
+    "engineType": "Twin turboshaft (Isotov TV3-117KM)",
+    "rotorConfig": "Coaxial counter-rotating rotors",
+    "maxSpeed": "270 km/h (168 mph)",
+    "range": "900 km (559 mi)",
+    "ceiling": "5,000 m (16,400 ft)",
+    "payload": "4,000 kg (8,818 lb)",
+    "description": "The Ka-27 is Russia's primary naval shipborne helicopter, designed for anti-submarine warfare and search and rescue. Its coaxial rotor design eliminates the tail rotor entirely, greatly reducing the length required on ship decks and improving hover stability in gusting sea winds.",
+    "historicalBackground": "Developed in the 1970s to replace the Ka-25, the Ka-27 first flew in 1973 and entered Soviet Navy service in 1982. Export versions (Ka-28) serve in China, India, Vietnam, and Yugoslavia. The coaxial design proved crucial for operation from small frigate and destroyer decks.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/A_Russian_Helix_KA-27_%28cropped%29.jpg/330px-A_Russian_Helix_KA-27_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "famousMissions": [
+      "Soviet/Russian naval ASW patrols – North Atlantic & Pacific",
+      "Kursk submarine disaster response (2000)"
+    ],
+    "exportCountries": [
+      "China",
+      "India",
+      "Vietnam",
+      "Ukraine",
+      "Serbia"
+    ]
+  },
+  {
+    "id": "ec225SuperPuma",
+    "name": "EC225 / H225 Super Puma",
+    "manufacturer": "Airbus Helicopters",
+    "country": "France",
+    "firstFlight": "2000",
+    "role": "Offshore Transport / SAR / VIP",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Turbomeca Makila 2A1)",
+    "rotorConfig": "Single main rotor (5 blades) + tail rotor",
+    "maxSpeed": "324 km/h (201 mph)",
+    "range": "857 km (532 mi)",
+    "ceiling": "4,572 m (15,000 ft)",
+    "payload": "4,750 kg (10,472 lb) or 19 passengers",
+    "description": "The EC225 Super Puma is the dominant long-range offshore helicopter for oil and gas operations, capable of flying up to 200 miles offshore with a full load of 19 passengers. It also serves as a VIP transport, carrying heads of state including the French President.",
+    "historicalBackground": "Successor to the AS332 Super Puma, the EC225 entered service in 2004 and quickly became the preferred helicopter for North Sea offshore operations. After two fatal crashes in Norway in 2016 linked to a gearbox fault, the type was grounded for 14 months before returning to service.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/EUROCOPTER_EC225_01.JPG/1280px-EUROCOPTER_EC225_01.JPG",
+    "famousMissions": [
+      "North Sea oil platform support operations",
+      "French presidential transport",
+      "Norwegian SAR operations"
+    ],
+    "exportCountries": [
+      "Norway",
+      "United Kingdom",
+      "Brazil",
+      "Malaysia",
+      "China",
+      "Nigeria"
+    ]
+  },
+  {
+    "id": "z10",
+    "name": "CAIC Z-10",
+    "manufacturer": "CAIC (Changhe Aircraft Industries)",
+    "country": "China",
+    "firstFlight": "2003",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (WZ-9 or Pratt & Whitney PT6C)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "270 km/h (168 mph)",
+    "range": "800 km (497 mi)",
+    "ceiling": "6,400 m (21,000 ft)",
+    "payload": "1,500 kg (3,307 lb) weapons",
+    "description": "The Z-10 is China's first dedicated attack helicopter, comparable in concept to the Apache. Armed with a 23mm cannon, HJ-10 anti-tank missiles, and TY-90 air-to-air missiles, it gives the PLA Army Aviation a modern anti-armour and escort capability.",
+    "historicalBackground": "Development began in the late 1990s with secret design assistance from Kamov engineers. The Z-10 first flew in 2003 and entered PLA service around 2012. It was revealed publicly at the 2012 Zhuhai airshow. It has been deployed to Tibet for high-altitude operations.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/PLAAF_Changhe_WZ-10_-_Jordan.jpg",
+    "famousMissions": [
+      "PLA Army Aviation exercises in Tibet",
+      "National Day flypast – Beijing (2015, 2019)"
+    ],
+    "exportCountries": [
+      "Pakistan (Z-10ME variant, ordered 2022)"
+    ]
+  },
+  {
+    "id": "h145",
+    "name": "H145 / EC145",
+    "manufacturer": "Airbus Helicopters",
+    "country": "Germany",
+    "firstFlight": "1999",
+    "role": "Light Utility / EMS / Military",
+    "crew": "1–2",
+    "engineType": "Twin turboshaft (Turbomeca Arriel 2E)",
+    "rotorConfig": "Single main rotor + Fenestron tail rotor",
+    "maxSpeed": "243 km/h (151 mph)",
+    "range": "680 km (423 mi)",
+    "ceiling": "4,572 m (15,000 ft)",
+    "payload": "1,800 kg (3,969 lb)",
+    "description": "The H145 is a versatile twin-engine light helicopter widely used in EMS, law enforcement, SAR, and as a military light transport. The US Army flies it as the UH-72A Lakota for training and national guard duties. Its five-blade composite rotor and Fenestron make it very quiet.",
+    "historicalBackground": "A collaborative development between Eurocopter Germany and Japan's Kawasaki (as the BK117 successor), the EC145 first flew in 1999. The US Army selected it over the Bell 412EP and Sikorsky H-92 for the Lakota contract in 2006, ordering over 300 aircraft.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stanford_EC145.jpg",
+    "famousMissions": [
+      "US Army National Guard border security operations",
+      "German ADAC air rescue",
+      "Luxembourg Air Rescue mountain ops"
+    ],
+    "exportCountries": [
+      "United States",
+      "Luxembourg",
+      "Switzerland",
+      "Serbia",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "id": "vh92",
+    "name": "VH-92A",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "2017",
+    "role": "VIP / Presidential Transport",
+    "crew": "4",
+    "engineType": "Twin turboshaft (GE CT7-8A)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "287 km/h (178 mph)",
+    "range": "994 km (617 mi)",
+    "ceiling": "4,575 m (15,000 ft)",
+    "payload": "1,800 kg (3,969 lb)",
+    "description": "The VH-92A is the latest Marine One presidential helicopter, replacing the ageing VH-3D Sea King. Built on the commercial S-92 platform with extensive secure communication systems, armored cabin, and countermeasures, it is the most protected helicopter in the world.",
+    "historicalBackground": "A lengthy and troubled procurement to replace the VH-3 Sea King began in 2002 with the VH-71 Kestrel program (a modified AW101), which was cancelled in 2009 after cost overruns. The VH-92 program was restarted in 2014 with Sikorsky's S-92; IOC was declared in December 2020.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/VH-92_Quantico.jpg/1280px-VH-92_Quantico.jpg",
+    "famousMissions": [
+      "Transport of US President from White House to Air Force One (daily)"
+    ],
+    "exportCountries": []
+  },
+  {
+    "id": "mi171Sh",
+    "name": "Mi-171Sh",
+    "manufacturer": "Ulan-Ude Aviation Plant",
+    "country": "Russia",
+    "firstFlight": "1991",
+    "role": "Military Transport / Assault",
+    "crew": "3",
+    "engineType": "Twin turboshaft (Klimov VK-2500)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "250 km/h (155 mph)",
+    "range": "620 km (385 mi)",
+    "ceiling": "6,000 m (19,685 ft)",
+    "payload": "4,000 kg (8,818 lb) or 36 troops",
+    "description": "The Mi-171Sh is the combat-optimized assault variant of the Mi-8/Mi-17 family, featuring enhanced armor, stub wings for weapons, a rear ramp for rapid troop deployment, and upgraded engines. It represents the modern evolution of the world's most-produced helicopter.",
+    "historicalBackground": "A product of the post-Soviet upgrade of the Mi-8/17 family, the Mi-171Sh was developed in the 1990s for the export market. Its combination of Mi-8 reliability with Mi-24-like weapons capability at an affordable price made it one of Russia's most successful defense exports of the 2000s and 2010s.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russian_Air_Force_Mil_Mi-17_yellow_62.jpg/1280px-Russian_Air_Force_Mil_Mi-17_yellow_62.jpg",
+    "famousMissions": [
+      "Czech and Slovak Republic peacekeeping operations in Afghanistan",
+      "Czech Army operations in Iraq (2003)"
+    ],
+    "exportCountries": [
+      "Czech Republic",
+      "Slovakia",
+      "Kazakhstan",
+      "China",
+      "Bolivia",
+      "Peru",
+      "Bangladesh"
+    ]
+  },
+  {
+    "id": "aw159Wildcat",
+    "name": "AW159 Wildcat",
+    "manufacturer": "Leonardo Helicopters",
+    "country": "United Kingdom",
+    "firstFlight": "2009",
+    "role": "Naval ASW / Attack / Utility",
+    "crew": "2–3",
+    "engineType": "Twin turboshaft (LHTEC CTS800-4N)",
+    "rotorConfig": "Semi-rigid hingeless main rotor (4 blades) + tail rotor",
+    "maxSpeed": "291 km/h (181 mph)",
+    "range": "777 km (483 mi)",
+    "ceiling": "3,810 m (12,500 ft)",
+    "payload": "1,000 kg (2,205 lb)",
+    "description": "The AW159 Wildcat is the Royal Navy and Army Air Corps' replacement for the Lynx, modernised with new engines, glass cockpit, advanced radar, and weapons fit. The naval variant carries Stingray torpedoes and Sea Venom missiles for anti-submarine and anti-ship operations.",
+    "historicalBackground": "Procured under the UK's Future Lynx program, the Wildcat first flew in 2009 and entered service in 2015. South Korea became the first export customer in 2013. During the development phase, AgustaWestland was acquired by Leonardo. The Wildcat uses 90% new parts versus the old Lynx.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Royal_Navy_Wildcat_Helicopter_MOD_45158434.jpg/1280px-Royal_Navy_Wildcat_Helicopter_MOD_45158434.jpg",
+    "famousMissions": [
+      "Royal Navy frigate deployments – Gulf of Aden counter-piracy",
+      "HMS Queen Elizabeth carrier group (2021)"
+    ],
+    "exportCountries": [
+      "South Korea",
+      "Philippines"
+    ]
+  },
+  {
+    "id": "h160",
+    "name": "H160",
+    "manufacturer": "Airbus Helicopters",
+    "country": "France",
+    "firstFlight": "2015",
+    "role": "Medium Utility / Offshore / EMS",
+    "crew": "2",
+    "engineType": "Twin turboshaft (Turbomeca Arrano 1A)",
+    "rotorConfig": "Single main rotor (5 biplane blades) + Fenestron",
+    "maxSpeed": "296 km/h (184 mph)",
+    "range": "857 km (532 mi)",
+    "ceiling": "4,572 m (15,000 ft)",
+    "payload": "3,050 kg (6,724 lb) or 12 passengers",
+    "description": "The H160 is the latest generation medium helicopter from Airbus, featuring innovative biplane rotor blades (Blue Edge) that reduce noise dramatically, a tilted Fenestron, and extensive composite airframe. It replaces the Dauphin family in offshore and EMS roles.",
+    "historicalBackground": "Launched at Heli-Expo 2015 when the prototype first flew, the H160 represents Airbus's largest civil helicopter investment in two decades. The French military selected a military variant, the H160M Guépard, in 2020 to replace the Dauphin and Alouette III across the Army, Navy, and Air Force.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Airbus_Helicopters_H160_%28cropped%29.jpg/1280px-Airbus_Helicopters_H160_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "famousMissions": [
+      "French Gendarmerie operations (2023–present)",
+      "Japanese offshore transport EJX (Bristow, 2024)"
+    ],
+    "exportCountries": [
+      "Japan",
+      "United States (Bristow)",
+      "France (military)"
+    ]
+  },
+  {
+    "id": "s92",
+    "name": "Sikorsky S-92",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1998",
+    "role": "Offshore Transport / SAR / VIP",
+    "crew": "2",
+    "engineType": "Twin turboshaft (GE CT7-8A)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "280 km/h (174 mph)",
+    "range": "998 km (620 mi)",
+    "ceiling": "4,575 m (15,000 ft)",
+    "payload": "2,727 kg (6,012 lb) or 19 passengers",
+    "description": "The Sikorsky S-92 is the benchmark medium-large twin-engine helicopter for offshore oil and gas transport and search and rescue, able to carry 19 passengers over 200 nautical miles. The VH-92 presidential variant serves as Marine One.",
+    "historicalBackground": "Developed in the 1990s with international partners from Japan, China, and Brazil, the S-92 first flew in 1998. It entered service in 2004. Cougar Helicopters Flight 491 crashed into the Atlantic off Newfoundland in 2009, killing 17, leading to major safety improvements to the oil filter system.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/S92_G-IACF_IMG_7005_%28cropped%29.jpg/1280px-S92_G-IACF_IMG_7005_%28cropped%29.jpg",
+    "famousMissions": [
+      "North Sea offshore oil platform operations",
+      "Canadian Coast Guard SAR",
+      "Irish Coast Guard SAR (Sligo, 2017)"
+    ],
+    "exportCountries": [
+      "Norway",
+      "Canada",
+      "Brazil",
+      "Australia",
+      "Ireland",
+      "UK",
+      "Nigeria"
+    ]
+  },
+  {
+    "id": "z20",
+    "name": "HAIG Z-20",
+    "manufacturer": "Harbin Aircraft Industry Group",
+    "country": "China",
+    "firstFlight": "2013",
+    "role": "Utility Transport / Naval / Special Ops",
+    "crew": "2",
+    "engineType": "Twin turboshaft (WZ-10 / indigenous)",
+    "rotorConfig": "Single main rotor (5 blades) + tail rotor",
+    "maxSpeed": "305 km/h (190 mph)",
+    "range": "800 km (497 mi)",
+    "ceiling": "6,000 m (19,685 ft)",
+    "payload": "1,000 kg (2,205 lb) or 12 troops",
+    "description": "The Z-20 is China's domestically developed medium utility helicopter, broadly comparable to the UH-60 Black Hawk, featuring a five-blade composite rotor, tail rotor, and fly-by-wire controls. It entered service with the PLA Army, Navy, and Air Force from 2019.",
+    "historicalBackground": "Development followed China's acquisition of 24 S-70C Black Hawks in 1984, many of which were reversed-engineered. The Z-20 first appeared publicly in 2013, entered service c.2019, and is steadily replacing the imported S-70 in Chinese military service. A naval variant is carrier-deployable.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Z-20_at_National_Day_Parade_2019.jpg/1280px-Z-20_at_National_Day_Parade_2019.jpg",
+    "famousMissions": [
+      "PLA exercises – South China Sea (2020–present)",
+      "PLA 2019 National Day parade"
+    ],
+    "exportCountries": []
+  },
+  {
+    "id": "gazelle",
+    "name": "Aérospatiale SA 341 Gazelle",
+    "manufacturer": "Aérospatiale / Westland",
+    "country": "France",
+    "firstFlight": "1967",
+    "role": "Light Utility / Scout / Attack",
+    "crew": "2",
+    "engineType": "Single turboshaft (Turbomeca Astazou XIVH)",
+    "rotorConfig": "Single main rotor + Fenestron shrouded tail rotor",
+    "maxSpeed": "310 km/h (193 mph)",
+    "range": "670 km (416 mi)",
+    "ceiling": "5,000 m (16,404 ft)",
+    "payload": "700 kg (1,543 lb)",
+    "description": "The Gazelle is a sleek, elegant French light helicopter notable for its Fenestron shrouded tail rotor — a feature that later became Airbus Helicopters' trademark. Fast and agile, it serves as a scout, armed with HOT anti-tank missiles in French and British service.",
+    "historicalBackground": "A Franco-British collaborative design, the Gazelle first flew in 1967 as part of the same agreement that produced the Lynx and Puma. It entered French service in 1973. Syrian Arab Air Force Gazelles saw heavy action in the 1982 Lebanon War, firing HOT missiles against Israeli tanks.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gazelle_-_RIAT_2014_%28cropped%29.jpg/330px-Gazelle_-_RIAT_2014_%28cropped%29.jpg",
+    "famousMissions": [
+      "1982 Lebanon War – Bekaa Valley anti-tank operations",
+      "Falklands War (UK Army Air Corps)",
+      "Gulf War (French Army)"
+    ],
+    "exportCountries": [
+      "United Kingdom",
+      "Egypt",
+      "Syria",
+      "Iraq",
+      "Yugoslavia",
+      "Morocco",
+      "Kuwait"
+    ]
+  },
+  {
+    "id": "hh60PaveHawk",
+    "name": "HH-60G Pave Hawk",
+    "manufacturer": "Sikorsky",
+    "country": "United States",
+    "firstFlight": "1982",
+    "role": "Combat Search and Rescue / Special Ops",
+    "crew": "4",
+    "engineType": "Twin turboshaft (GE T700-GE-701C)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "294 km/h (183 mph)",
+    "range": "900 km (560 mi) with IFR",
+    "ceiling": "5,791 m (19,000 ft)",
+    "payload": "1,170 kg (2,580 lb)",
+    "description": "The HH-60G Pave Hawk is the USAF's Combat Search and Rescue helicopter, equipped with terrain-following radar, FLIR, GPS, in-flight refueling probe, and comprehensive ECM. It is designed to penetrate enemy airspace at night and low altitude to recover downed aircrew.",
+    "historicalBackground": "Modified from the UH-60 Black Hawk specifically for CSAR and special operations in the 1980s, the Pave Hawk first deployed to combat in Panama in 1989. It gained fame during the Gulf War and was the helicopter used in the failed Iranian hostage rescue precursor planning. The HH-60W Jolly Green II succeeds it.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HH-60G_Pave_Hawk_helicopter_operated_by_the_56th_Rescue_Squadron.jpg/330px-HH-60G_Pave_Hawk_helicopter_operated_by_the_56th_Rescue_Squadron.jpg",
+    "famousMissions": [
+      "Operation Desert Storm CSAR (1991)",
+      "Somalia – Task Force Ranger support (1993)",
+      "Operation Allied Force – Yugoslavia (1999)"
+    ],
+    "exportCountries": []
+  },
+  {
+    "id": "mq8FireScout",
+    "name": "MQ-8 Fire Scout",
+    "manufacturer": "Northrop Grumman",
+    "country": "United States",
+    "firstFlight": "2000",
+    "role": "Unmanned Reconnaissance / Strike",
+    "crew": "0 (unmanned)",
+    "engineType": "Single turboshaft (Rolls-Royce 250-C20W)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "213 km/h (132 mph)",
+    "range": "1,100 km (680 mi) range / 8+ hrs endurance",
+    "ceiling": "6,096 m (20,000 ft)",
+    "payload": "272 kg (600 lb)",
+    "description": "The MQ-8 Fire Scout is the US Navy's ship-launched unmanned helicopter, capable of autonomous takeoff and landing on moving vessels. It provides persistent ISR (intelligence, surveillance, reconnaissance) and can be armed with laser-guided rockets for strike missions.",
+    "historicalBackground": "Developed from Schweizer's civil helicopter by Northrop Grumman, the Fire Scout first flew in 2000. The B variant (based on the Bell 407 airframe) carries more payload and has greater range. It deployed to Afghanistan in 2011, and has supported anti-narcotics operations in the Caribbean.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110930-N-JQ696-401_An_MQ-8B_Fire_Scout_unmanned_aerial_vehicle_%28cropped%29.jpg/1280px-US_Navy_110930-N-JQ696-401_An_MQ-8B_Fire_Scout_unmanned_aerial_vehicle_%28cropped%29.jpg",
+    "famousMissions": [
+      "USS Halyburton counter-piracy operations (2010)",
+      "Afghanistan ISR support (2011)",
+      "Operation Martillo – drug interdiction"
+    ],
+    "exportCountries": []
+  },
+  {
+    "id": "pzl_w3Sokol",
+    "name": "PZL W-3 Sokół",
+    "manufacturer": "PZL Świdnik",
+    "country": "Poland",
+    "firstFlight": "1979",
+    "role": "Medium Utility / SAR / EMS",
+    "crew": "2",
+    "engineType": "Twin turboshaft (PZL-10W)",
+    "rotorConfig": "Single main rotor (4 blades) + tail rotor",
+    "maxSpeed": "240 km/h (149 mph)",
+    "range": "745 km (463 mi)",
+    "ceiling": "5,200 m (17,060 ft)",
+    "payload": "2,100 kg (4,630 lb) or 12 passengers",
+    "description": "The PZL W-3 Sokół (Falcon) is Poland's only domestically designed and produced helicopter, unique in Eastern Europe as a completely indigenous design — not a Soviet licence copy. It serves the Polish Army, Border Guard, Navy, Police, and SAR services.",
+    "historicalBackground": "Development began in the 1970s, remarkable for a communist-era country producing its own helicopter outside Soviet licensed designs. The Sokół first flew in 1979 and entered service in 1985. It was exported to Myanmar and South Korea. An armed variant, the W-3W Głuszec, carries anti-tank missiles.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/PZL_W-3T_Polish_Navy.jpg/1280px-PZL_W-3T_Polish_Navy.jpg?utm_source=pl.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "famousMissions": [
+      "Polish Navy Baltic Sea SAR operations",
+      "POLCON UN mission in Lebanon",
+      "Polish Border Guard mountain rescue"
+    ],
+    "exportCountries": [
+      "Myanmar",
+      "South Korea",
+      "Czech Republic"
+    ]
+  },
+  {
+    "id": "a129Mangusta",
+    "name": "AW129 Mangusta",
+    "manufacturer": "Leonardo Helicopters",
+    "country": "Italy",
+    "firstFlight": "1983",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (LHTEC T800 or Rolls-Royce Gem)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "315 km/h (196 mph)",
+    "range": "1,000 km (621 mi)",
+    "ceiling": "4,725 m (15,500 ft)",
+    "payload": "1,200 kg (2,645 lb) weapons",
+    "description": "The AW129 Mangusta (Mongoose) is Europe's first dedicated attack helicopter, developed exclusively for Italy. Armed with a 20mm cannon, Hellfire missiles, Stinger air-to-air missiles, and rockets, it participated in multiple NATO operations in the Balkans and Afghanistan.",
+    "historicalBackground": "Development began in 1978 as Italy sought a home-grown attack helicopter. The Mangusta first flew in 1983 and entered Italian Army service in 1990. It saw its first combat in Somalia in 1993 and later served in Albania, Bosnia, and Afghanistan with Italian and Turkish variants.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Agusta_A129A_Mangusta%2C_Italy_-_Army_JP6364823.jpg",
+    "famousMissions": [
+      "Operation Restore Hope – Somalia (1993)",
+      "Operation Alba – Albania (1997)",
+      "ISAF – Afghanistan (2005–2013)"
+    ],
+    "exportCountries": [
+      "Turkey (T129 ATAK variant)"
+    ]
+  },
+  {
+    "id": "t129Atak",
+    "name": "TAI T129 ATAK",
+    "manufacturer": "Turkish Aerospace Industries",
+    "country": "Turkey",
+    "firstFlight": "2011",
+    "role": "Attack",
+    "crew": "2",
+    "engineType": "Twin turboshaft (LHTEC T800-4A → TUSAŞ TEI-TS1400)",
+    "rotorConfig": "Single main rotor + tail rotor",
+    "maxSpeed": "278 km/h (173 mph)",
+    "range": "851 km (529 mi)",
+    "ceiling": "6,096 m (20,000 ft)",
+    "payload": "1,300 kg (2,866 lb) weapons",
+    "description": "The T129 ATAK is Turkey's license-built and heavily modified attack helicopter derived from the Italian A129 Mangusta. Fitted with indigenous Turkish weapons including the UMTAS long-range anti-tank missile and Cirit laser-guided rocket, it has seen extensive combat in anti-PKK operations.",
+    "historicalBackground": "Turkey selected the ATAK in 2007 to meet its attack helicopter needs, with TAI license-building and substantially modifying the Italian A129. Engine export restrictions (US-origin LHTEC T800) blocked exports to Pakistan, driving Turkey to develop the indigenous TEI TS1400 engine. Philippines ordered 6 in 2021.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/BG12-1001_%2814662033896%29.jpg",
+    "famousMissions": [
+      "Operation Claw – northern Iraq (2019–2022)",
+      "Operation Euphrates Shield – Syria (2016–2017)",
+      "Counter-PKK operations in SE Turkey"
+    ],
+    "exportCountries": [
+      "Philippines"
+    ]
+  },
+  {
+    "id": "mdExplorer",
+    "name": "MD Explorer MD902",
+    "manufacturer": "MD Helicopters",
+    "country": "United States",
+    "firstFlight": "1992",
+    "role": "Light Utility / EMS / Police",
+    "crew": "1",
+    "engineType": "Twin turboshaft (Pratt & Whitney PW207E)",
+    "rotorConfig": "Single main rotor (5 blades) + NOTAR (no tail rotor)",
+    "maxSpeed": "259 km/h (161 mph)",
+    "range": "569 km (354 mi)",
+    "ceiling": "3,048 m (10,000 ft)",
+    "payload": "931 kg (2,052 lb)",
+    "description": "The MD Explorer is a twin-engine light helicopter famous for its NOTAR (No Tail Rotor) anti-torque system, which uses a fan-driven air jet to counteract main rotor torque instead of a conventional tail rotor. This eliminates the most dangerous component of a helicopter for ground crews.",
+    "historicalBackground": "Developed by McDonnell Douglas Helicopters in the late 1980s, the Explorer first flew in 1992 and entered production in 1994. After Boeing acquired MDH and subsequently sold it to MD, the Explorer found a niche in EMS and law enforcement. The UK Air Ambulance fleet operated them extensively.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%28cropped%29_London_Air_Ambulance_G-EHMS.jpg/1280px-%28cropped%29_London_Air_Ambulance_G-EHMS.jpg",
+    "famousMissions": [
+      "UK Air Ambulance EMS operations",
+      "US law enforcement patrol operations",
+      "Japanese maritime police"
+    ],
+    "exportCountries": [
+      "United Kingdom",
+      "Japan",
+      "South Korea",
+      "Sweden",
+      "Italy"
+    ]
+  },
+  {
+    "id": "kamovKa50BlackShark",
+    "name": "Ka-50 Black Shark",
+    "manufacturer": "Kamov",
+    "country": "Russia",
+    "firstFlight": "1982",
+    "role": "Attack (Single-seat)",
+    "crew": "1",
+    "engineType": "Twin turboshaft (Klimov TV3-117VK)",
+    "rotorConfig": "Coaxial counter-rotating rotors",
+    "maxSpeed": "315 km/h (196 mph)",
+    "range": "545 km (339 mi)",
+    "ceiling": "5,500 m (18,045 ft)",
+    "payload": "2,000 kg (4,409 lb) weapons",
+    "description": "The Ka-50 Black Shark is the world's only single-seat operational attack helicopter, featuring a unique ejection seat system where the rotor blades are explosively jettisoned before the seat fires. Its coaxial rotors and sophisticated avionics allow one pilot to manage weapons and flight simultaneously.",
+    "historicalBackground": "Winning a bitterly contested Soviet competition against the Mi-28 in 1984, the Ka-50 first flew in June 1982 and entered limited Russian service in 1995. Budget constraints meant only a handful were built. It saw combat in Chechnya in 2001. The two-seat Ka-52 Alligator became the preferred production variant.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kamov_Ka-50_in_Moscow.jpg/330px-Kamov_Ka-50_in_Moscow.jpg",
+    "famousMissions": [
+      "Second Chechen War (2001)"
+    ],
+    "exportCountries": []
+  }
+]
