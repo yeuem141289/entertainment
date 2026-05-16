@@ -1567,7 +1567,7 @@
     "payload": "2,722 kg (6,000 lb) slung",
     "description": "The K-MAX is a specialized aerial crane helicopter using an unusual intermeshing rotor (synchropter) design, giving it a lift-to-weight ratio superior to conventional helicopters. USMC used an unmanned K-MAX to deliver cargo in Afghanistan, the first operational unmanned helicopter logistics mission.",
     "historicalBackground": "Developed by Kaman based on their intermeshing rotor technology from the 1940s, the K-MAX first flew in 1991. The US Marine Corps deployed two unmanned K-MAX aircraft in Afghanistan from 2011 to 2014, successfully delivering 4.5 million pounds of cargo while keeping pilots out of danger.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaman_K-MAX.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kaman_K-1200_Rotex.jpg/1280px-Kaman_K-1200_Rotex.jpg",
     "famousMissions": [
       "Unmanned cargo resupply – Afghanistan (2011–2014)",
       "Aerial firefighting – US Western states",
@@ -1593,7 +1593,7 @@
     "payload": "272 kg (600 lb)",
     "description": "The Robinson R22 is the world's most produced piston helicopter and the most common primary training helicopter globally. Its simple, lightweight design and low operating costs have trained more helicopter pilots than any other type in history.",
     "historicalBackground": "Designed by Frank Robinson after leaving Hughes, the R22 first flew in 1975 and entered production in 1979. It ignited controversy due to early accidents related to low-G flight mast bumping, leading to pilot training improvements. The Beta II (1995) improved the engine and safety features.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Robinson_R22_Beta_II.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/R22_N4044D_%28cropped%29.jpg/1280px-R22_N4044D_%28cropped%29.jpg",
     "famousMissions": [
       "Flight school primary training worldwide",
       "Agricultural work (mustering cattle, Australia)",
@@ -1625,7 +1625,7 @@
     "payload": "9,072 kg (20,000 lb) or 32 troops",
     "description": "The V-22 Osprey is a tiltrotor aircraft that takes off and lands like a helicopter but cruises at turboprop aircraft speeds and altitudes. It provides the US military with unmatched range and speed for troop transport and special operations, though at considerable cost and complexity.",
     "historicalBackground": "Development began in 1981 after tragic failures of Operation Eagle Claw. The Osprey suffered four fatal crashes during development, killing 30 people, and was nearly cancelled multiple times. It entered USMC service in 2007 and deployed to Iraq that year. Japan ordered the V-22 in 2015.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/V-22_Osprey_tiltrotor.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/MV-22_mcas_Miramar_2014.JPG/1280px-MV-22_mcas_Miramar_2014.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "Operation Iraqi Freedom deployment (2007)",
       "Libya NEO – evacuation of US citizens (2011)",
@@ -1652,7 +1652,7 @@
     "payload": "287 kg (633 lb)",
     "description": "The Hughes/Schweizer 300 is one of the longest-produced piston helicopters in history, built continuously from 1956 to 2011. Its three-seat capacity, simple mechanics, and low cost made it the primary training helicopter for countless military and civilian pilot programs.",
     "historicalBackground": "Designed by Hughes Tool Company's aircraft division in 1956, the TH-55 Osage trained 90% of US Army pilots during the Vietnam era, over 35,000 pilots in total. Schweizer acquired the design from Hughes in 1983 and produced it until 2011. The 300C featured a more powerful engine.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schweizer_300C_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PH-DIB_Schweizer_269C-300C_at_Hilversum_Airport_%28ICAO_EHHV%29%2C_photo1.JPG/1280px-PH-DIB_Schweizer_269C-300C_at_Hilversum_Airport_%28ICAO_EHHV%29%2C_photo1.JPG",
     "famousMissions": [
       "TH-55 Osage – US Army Vietnam-era pilot training (1964–1988)",
       "DEA aerial surveillance operations",
@@ -1682,7 +1682,7 @@
     "payload": "1,800 kg (3,969 lb) or 10 passengers",
     "description": "The AW169 fills the gap between the light AW109 and medium AW139, offering ten-passenger capacity with twin-engine safety. It is gaining traction in EMS, law enforcement, and as a light military multirole platform with several nations procuring it for border patrol and SAR.",
     "historicalBackground": "Launched in 2010 and first flown in 2012, the AW169 received EASA certification in 2015. The UK selected the AW169 as its Future Light Helicopter to replace the AS350 Squirrel and Bell 212 for British Army and RAF training. Thailand and Italy's Carabinieri are operators.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AgustaWestland_AW169.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Agusta_Westland_AW_169_%28solo%29.jpg/1280px-Agusta_Westland_AW_169_%28solo%29.jpg",
     "famousMissions": [
       "Italian Carabinieri law enforcement",
       "UK Army Air Corps – Future Light Helicopter (from 2026)",
@@ -1712,7 +1712,7 @@
     "payload": "1,950 kg (4,299 lb) or 8 troops",
     "description": "The AS565 Panther is the military variant of the Dauphin family, deployed on frigates and corvettes for anti-submarine warfare, anti-surface operations, and SAR. Lightweight and compact, it fits on smaller warship decks where the NH90 cannot operate.",
     "historicalBackground": "Developed from the AS365 Dauphin in the early 1980s, the Panther entered French naval service in 1993. The US Coast Guard's HH-65 Dolphin uses the same Dauphin airframe. Israel's Navy Helicopter Squadron operates armed Panthers with Spike missiles for anti-ship missions.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AS565_Panther_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/French_Navy_Aircraft_Lands_on_USS_Arlington_%28cropped%29.jpg/1280px-French_Navy_Aircraft_Lands_on_USS_Arlington_%28cropped%29.jpg",
     "famousMissions": [
       "French Navy Indian Ocean ASW patrols",
       "Israeli Navy coastal interdiction operations",
@@ -1744,7 +1744,7 @@
     "payload": "816 kg (1,800 lb)",
     "description": "The Piasecki HUP Retriever was the US Navy's first operational tandem-rotor helicopter, pioneering the configuration later perfected by the Chinook. It served as a plane guard and rescue helicopter on aircraft carriers, rescuing pilots from the water after carrier landing accidents.",
     "historicalBackground": "Frank Piasecki's second tandem-rotor design, the HUP first flew in 1948 and entered USN service in 1949. It served on carriers during the Korean War. Canada and France also operated it. It pioneered the tandem rotor configuration's advantages for shipboard operations where space is limited.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piasecki_HUP-1.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HUP-2_from_USS_FD_Roosevelt_%28CVA-42%29_in_flight_1959.jpg/1280px-HUP-2_from_USS_FD_Roosevelt_%28CVA-42%29_in_flight_1959.jpg",
     "famousMissions": [
       "Korean War carrier plane guard operations",
       "US Navy carrier deck accident rescues",
@@ -1771,7 +1771,7 @@
     "payload": "862 kg (1,900 lb)",
     "description": "The AH-6 Little Bird is the US Army's special operations light attack helicopter, operated by the 160th SOAR 'Night Stalkers'. Armed with miniguns and rocket pods, it is used for direct action, escort of MH-60 and MH-47 missions, and urban combat due to its small size and agility.",
     "historicalBackground": "Based on the Hughes OH-6 Cayuse that won the 1966 LOH competition, the Little Bird was adopted for special operations in the 1980s. The 160th SOAR used AH-6s in the 1983 Grenada invasion, the 1989 Panama invasion, and most famously in the 1993 Battle of Mogadishu, depicted in 'Black Hawk Down'.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MH-6_Little_Bird.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MH-6_little-bird_arch._1994.jpg/1280px-MH-6_little-bird_arch._1994.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "Operation Urgent Fury – Grenada (1983)",
       "Operation Just Cause – Panama (1989)",
@@ -1801,7 +1801,7 @@
     "payload": "3,200 kg (7,055 lb) or 16 troops",
     "description": "The SA 330 Puma is a rugged medium transport helicopter developed for the French Army, capable of all-weather day and night operations. Its roomy cabin accommodates 16 troops or 3,200 kg of cargo. The Puma family evolved into the Super Puma, one of the world's most successful helicopter lines.",
     "historicalBackground": "Designed in response to a 1962 French Army requirement, the Puma first flew in 1965 and entered service in 1969. It was part of the Anglo-French helicopter agreement alongside the Gazelle and Lynx. The Royal Air Force operated the Puma HC1 until 2015. South Africa's Atlas built it under licence as the Oryx.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerospatiale_SA_330_Puma.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Puma_-_RIAT_2010_%28cropped%29.jpg/1280px-Puma_-_RIAT_2010_%28cropped%29.jpg",
     "famousMissions": [
       "Falklands War – Royal Air Force (1982)",
       "Gulf War – French Army (1991)",
@@ -1833,7 +1833,7 @@
     "payload": "750 kg (1,653 lb) or 6 passengers",
     "description": "The Alouette III is a legendary French light helicopter renowned for its exceptional high-altitude performance. In 1960 it set the world helicopter altitude record at 12,440 m (40,814 ft). It served in over 70 countries and participated in some of the most dramatic mountain rescues in history.",
     "historicalBackground": "Developed from the Alouette II, the III first flew in 1959 with a more powerful engine and enclosed cabin. Switzerland's Air Rescue used it for decades in the Alps. The Indian Air Force used Alouette IIIs in the 1971 war, and the South African Air Force flew them in Angola. India built over 300 under licence as the HAL Cheetah.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerospatiale_Alouette_III.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aerospatiale_SA-319B_Alouette_III%2C_France_-_Navy_AN0330160.jpg/1280px-Aerospatiale_SA-319B_Alouette_III%2C_France_-_Navy_AN0330160.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "World altitude record flight – 12,440 m (1960)",
       "Indian Air Force 1971 Bangladesh Liberation War",
