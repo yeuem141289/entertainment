@@ -1225,7 +1225,7 @@
     "payload": "1,300 kg (2,866 lb) weapons",
     "description": "The T129 ATAK is Turkey's license-built and heavily modified attack helicopter derived from the Italian A129 Mangusta. Fitted with indigenous Turkish weapons including the UMTAS long-range anti-tank missile and Cirit laser-guided rocket, it has seen extensive combat in anti-PKK operations.",
     "historicalBackground": "Turkey selected the ATAK in 2007 to meet its attack helicopter needs, with TAI license-building and substantially modifying the Italian A129. Engine export restrictions (US-origin LHTEC T800) blocked exports to Pakistan, driving Turkey to develop the indigenous TEI TS1400 engine. Philippines ordered 6 in 2021.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TAI_T129_ATAK_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BG12-1001_%2814662033896%29.jpg/1280px-BG12-1001_%2814662033896%29.jpg",
     "famousMissions": [
       "Operation Claw – northern Iraq (2019–2022)",
       "Operation Euphrates Shield – Syria (2016–2017)",
@@ -1251,7 +1251,7 @@
     "payload": "931 kg (2,052 lb)",
     "description": "The MD Explorer is a twin-engine light helicopter famous for its NOTAR (No Tail Rotor) anti-torque system, which uses a fan-driven air jet to counteract main rotor torque instead of a conventional tail rotor. This eliminates the most dangerous component of a helicopter for ground crews.",
     "historicalBackground": "Developed by McDonnell Douglas Helicopters in the late 1980s, the Explorer first flew in 1992 and entered production in 1994. After Boeing acquired MDH and subsequently sold it to MD, the Explorer found a niche in EMS and law enforcement. The UK Air Ambulance fleet operated them extensively.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MD_Helicopters_MD-902_Explorer.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%28cropped%29_London_Air_Ambulance_G-EHMS.jpg/1280px-%28cropped%29_London_Air_Ambulance_G-EHMS.jpg",
     "famousMissions": [
       "UK Air Ambulance EMS operations",
       "US law enforcement patrol operations",
@@ -1281,7 +1281,7 @@
     "payload": "2,000 kg (4,409 lb) weapons",
     "description": "The Ka-50 Black Shark is the world's only single-seat operational attack helicopter, featuring a unique ejection seat system where the rotor blades are explosively jettisoned before the seat fires. Its coaxial rotors and sophisticated avionics allow one pilot to manage weapons and flight simultaneously.",
     "historicalBackground": "Winning a bitterly contested Soviet competition against the Mi-28 in 1984, the Ka-50 first flew in June 1982 and entered limited Russian service in 1995. Budget constraints meant only a handful were built. It saw combat in Chechnya in 2001. The two-seat Ka-52 Alligator became the preferred production variant.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ka-50_Black_Shark.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kamov_Ka-50_in_Moscow.jpg/1280px-Kamov_Ka-50_in_Moscow.jpg",
     "famousMissions": [
       "Second Chechen War (2001)"
     ],
@@ -1303,7 +1303,7 @@
     "payload": "2,381 kg (5,249 lb) or 13 passengers",
     "description": "The Bell 412 is a stretched, four-blade composite rotor development of the Bell 212, widely used by military and civilian operators worldwide. It offers improved performance over its predecessor with a quieter, more efficient rotor system.",
     "historicalBackground": "First flown in 1979, the Bell 412 replaced the twin-blade 212 with a composite four-blade rotor developed by Bell Canada. The military variant, UH-1N Twin Huey successor, serves in over 30 countries. The EP variant (Enhanced Performance) introduced in 1990 became the definitive production model.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bell_412_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%281%29Police_Helicopter_039.jpg/1280px-%281%29Police_Helicopter_039.jpg",
     "famousMissions": [
       "Canadian Forces peacekeeping operations",
       "Norwegian SAR coastal operations",
@@ -1335,7 +1335,7 @@
     "payload": "2,300 kg (5,070 lb) weapons",
     "description": "The Mi-28N Night Hunter is Russia's dedicated attack helicopter, competing with the Ka-50/52. Equipped with a mast-mounted radar, FLIR, and night vision systems, it carries the 9M120 Ataka anti-tank missile and a 30mm 2A42 cannon. It is a pure attack platform with no troop transport capability.",
     "historicalBackground": "Losing the Soviet attack helicopter competition to the Ka-50 in 1984, Mil continued developing the Mi-28 and eventually secured Russian Army orders after the USSR's dissolution. The N (Nochnoj – Night) variant with mast radar entered service in 2009. It saw combat in Syria from 2015.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mi-28N_at_MAKS-2009.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Russian_Air_Force%2C_RF-13489%2C_Mil_Mi-28NM_%2849581609382%29.jpg/1280px-Russian_Air_Force%2C_RF-13489%2C_Mil_Mi-28NM_%2849581609382%29.jpg",
     "famousMissions": [
       "Syria Civil War (2015–present)",
       "Ukraine War (2022–present)"
@@ -1362,7 +1362,7 @@
     "payload": "612 kg (1,349 lb)",
     "description": "The EC120 Colibri is a five-seat single-engine light helicopter built as an international collaboration between France, China, and Singapore. Its Fenestron tail rotor and turbine engine provide quiet, efficient flight ideal for flight training schools and private operators.",
     "historicalBackground": "A joint venture between Eurocopter, CATIC of China, and Singaporean Technologies Aerospace, the EC120 first flew in 1995 and entered production in 1997. It became popular with flight training organizations worldwide and serves as a primary pilot training helicopter in France and China.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurocopter_EC120B_Colibri.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Eurocopter_EC-120B_Colibri_AN0367366.jpg/1280px-Eurocopter_EC-120B_Colibri_AN0367366.jpg",
     "famousMissions": [
       "French Army pilot training",
       "Chinese PLA pilot ab-initio training"
@@ -1392,7 +1392,7 @@
     "payload": "900 kg (1,984 lb)",
     "description": "The HH-65 Dolphin is the US Coast Guard's primary short-range recovery helicopter, operated alongside the larger MH-60T Jayhawk. It is known for its distinctive Fenestron tail rotor and vivid USCG livery. The helicopter is also used for port security and counter-narcotics.",
     "historicalBackground": "Selected by the USCG in 1979 in preference to the Sikorsky S-76, the HH-65 entered service in 1985. A prolonged engine replacement program in the 2000s swapped the original unreliable Lycoming LTS101 engines for Turbomeca Arriel turbines. Over 100 serve with the USCG today.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HH-65C_Dolphin_USCG.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MH65E_Hover.jpg/1280px-MH65E_Hover.jpg",
     "famousMissions": [
       "Hurricane Katrina SAR operations (2005)",
       "Hurricane Harvey rescue (2017)",
@@ -1418,7 +1418,7 @@
     "payload": "1,587 kg (3,498 lb) or 6 troops",
     "description": "The UH-72 Lakota is the US Army's light utility helicopter, serving the Army National Guard for medevac, reconnaissance, C2, and pilot training. Based on the Eurocopter EC145, it replaced the aging UH-1 and OH-58 fleets in stateside National Guard units.",
     "historicalBackground": "The US Army selected the EC145 over Bell 412EP and Sikorsky H-92 in 2006, ordering 322 aircraft. Deliveries ran from 2007 to 2013. As the only non-American-designed helicopter in the Army's current fleet, it sparked political controversy but offered significant cost savings.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UH-72A_Lakota.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/UH-72_Volk_field.jpg/1280px-UH-72_Volk_field.jpg",
     "famousMissions": [
       "US Army National Guard domestic emergency response",
       "Border security operations – US-Mexico border",
@@ -1444,7 +1444,7 @@
     "payload": "4,536 kg (10,000 lb) or 25 troops",
     "description": "The CH-46 Sea Knight served the US Marine Corps for over 45 years as its primary medium-lift assault helicopter, replaced only by the V-22 Osprey in 2015. Its tandem rotor design provides stability and a wide rear ramp for rapid troop and cargo loading.",
     "historicalBackground": "Ordered by the Marines in 1960 following the Chinook's success, the Sea Knight first flew in 1958 and entered USMC service in 1964. It served throughout Vietnam, the Gulf War, Somalia, Iraq, and Afghanistan before retirement in 2015. The Canadian CH-113 Labrador variant served until 2004.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CH-46E_Sea_Knight.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CH-46_Sea_Knight_Helicopter.jpg/1280px-CH-46_Sea_Knight_Helicopter.jpg",
     "famousMissions": [
       "Vietnam War amphibious operations (1965–1975)",
       "Operation Desert Storm (1991)",
@@ -1473,7 +1473,7 @@
     "payload": "3,628 kg (8,000 lb)",
     "description": "The Sikorsky Sea King is best known as Marine One when carrying the US President, a role it held from President Kennedy to President Trump. Its amphibious hull, folding rotors for shipboard storage, and all-weather capability made it the gold standard for naval and VIP helicopters.",
     "historicalBackground": "First flown in 1959 to meet a Navy ASW requirement, the SH-3 Sea King entered naval service in 1961. The VH-3 variant became Marine One in 1962. Queen Elizabeth II used a British Westland Sea King. The type served in over 12 nations and was finally retired by the US Marines in 2023 after 61 years.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/VH-3D_Sea_King.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/SH3H_HS15_CVW15_1995_%28cropped%29.jpg/1280px-SH3H_HS15_CVW15_1995_%28cropped%29.jpg",
     "famousMissions": [
       "Apollo 11 crew recovery (1969)",
       "US presidential transport (1962–2023)",
@@ -1505,7 +1505,7 @@
     "payload": "1,814 kg (4,000 lb) or 18 troops",
     "description": "The S-58 Choctaw was the dominant Western military helicopter of the late 1950s and 1960s, serving all US armed services simultaneously. The nose-mounted radial engine gave it a distinctive appearance. It bridged the gap between piston-powered and turbine helicopter eras.",
     "historicalBackground": "Sikorsky's answer to the Navy's demand for a dedicated ASW helicopter, the S-58 first flew in 1954. It served in Algeria, Vietnam, and throughout NATO. France used it extensively during the Algerian War. Westland built it under license as the Wessex with turbine engines, serving the Royal Navy until 2004.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sikorsky_S-58_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sikorsky_S-58_landing_c.jpg/1280px-Sikorsky_S-58_landing_c.jpg",
     "famousMissions": [
       "Algeria War – French Army (1956–1962)",
       "Vietnam War early operations",
@@ -1537,7 +1537,7 @@
     "payload": "210 kg (463 lb)",
     "description": "The Cabri G2 is a modern two-seat training helicopter with a Fenestron tail rotor and energy-absorbing landing gear, designed with exceptional safety features. Its crashworthy design and enhanced structural integrity make it a favourite replacement for the Robinson R22 in flight schools.",
     "historicalBackground": "Designed by Bruno Guimbal of Eurocopter, the Cabri G2 first flew in 2005 and received EASA certification in 2007. It incorporated lessons learned from decades of helicopter accident analysis, making it the safest light piston helicopter on the market. Over 300 serve worldwide in flight academies.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guimbal_Cabri_G2.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Starlite_Cabri_G2_ZT-RSC_%28cropped%29.jpg/1280px-Starlite_Cabri_G2_ZT-RSC_%28cropped%29.jpg",
     "famousMissions": [
       "Flight school primary training worldwide",
       "French Civil Aviation Authority training"
