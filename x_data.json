@@ -15,7 +15,7 @@
     "payload": "771 kg (1,700 lb)",
     "description": "The AH-64 Apache is the US Army's primary attack helicopter, armed with a 30mm M230 chain gun, AGM-114 Hellfire missiles, and 70mm Hydra rockets. Its advanced target acquisition and night vision systems make it lethal in all weather conditions.",
     "historicalBackground": "Developed in the 1970s as a replacement for the AH-1 Cobra, the Apache first flew in September 1975 and entered service in 1986. It gained worldwide fame during Operation Desert Storm in 1991, where Apache crews flew the first shots of the war against Iraqi radar sites.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AH-64D_Apache_Longbow.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/330px-AH-64D_Apache_Longbow.jpg",
     "famousMissions": [
       "Operation Desert Storm (1991)",
       "Operation Iraqi Freedom (2003)",
@@ -815,7 +815,7 @@
     "payload": "4,000 kg (8,818 lb)",
     "description": "The Ka-27 is Russia's primary naval shipborne helicopter, designed for anti-submarine warfare and search and rescue. Its coaxial rotor design eliminates the tail rotor entirely, greatly reducing the length required on ship decks and improving hover stability in gusting sea winds.",
     "historicalBackground": "Developed in the 1970s to replace the Ka-25, the Ka-27 first flew in 1973 and entered Soviet Navy service in 1982. Export versions (Ka-28) serve in China, India, Vietnam, and Yugoslavia. The coaxial design proved crucial for operation from small frigate and destroyer decks.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ka-27_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/A_Russian_Helix_KA-27_%28cropped%29.jpg/330px-A_Russian_Helix_KA-27_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "famousMissions": [
       "Soviet/Russian naval ASW patrols – North Atlantic & Pacific",
       "Kursk submarine disaster response (2000)"
@@ -2685,7 +2685,7 @@
     "payload": "12,700 kg (28,000 lb) slung",
     "description": "The CH-47F is the definitive modern Chinook variant with a digital advanced flight control system (DAFCS), common avionics architecture system (CAAS), and improved vibration suppression. It entered US Army service in 2007 and is the standard for new-build and remanufactured Chinooks worldwide.",
     "historicalBackground": "Building on six decades of continuous production, the CH-47F represents a complete digital modernization of the Chinook airframe. The RAF designates their aircraft HC6 after a major upgrade programme. The F model's DAFCS significantly reduces pilot workload, especially during slung load and high-altitude operations.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CH-47F_Chinook.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/330px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
     "famousMissions": [
       "Afghanistan high-altitude supply missions (2001–2021)",
       "Operation Inherent Resolve – ISIS campaign (Iraq/Syria)",
