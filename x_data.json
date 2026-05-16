@@ -47,7 +47,7 @@
     "payload": "1,170 kg (2,580 lb) internal",
     "description": "The UH-60 Black Hawk is the US Army's workhorse utility helicopter, capable of carrying 11 combat-equipped soldiers. It serves in assault, medevac, VIP transport, special operations, and disaster relief roles across more than 25 countries.",
     "historicalBackground": "Winner of the Army's UTTAS competition in 1976, the Black Hawk replaced the UH-1 Huey. It debuted in combat in Grenada in 1983 and became internationally known after the Battle of Mogadishu in 1993, depicted in the book and film 'Black Hawk Down'.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/UH-60M_improved_Black_Hawk.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blackhawk.jpg/1920px-Blackhawk.jpg",
     "famousMissions": [
       "Operation Urgent Fury – Grenada (1983)",
       "Battle of Mogadishu (1993)",
@@ -79,7 +79,7 @@
     "payload": "10,886 kg (24,000 lb) slung",
     "description": "The CH-47 Chinook is a twin-engine, tandem rotor heavy-lift helicopter capable of transporting 33–55 troops or up to 10,886 kg of cargo. Its distinctive tandem rotor eliminates the need for a tail rotor, providing exceptional stability at high altitudes.",
     "historicalBackground": "Developed in the late 1950s, the Chinook first flew in 1961 and entered US Army service in 1962. It served extensively in the Vietnam War as the primary heavy-lift helicopter. Continuously upgraded, the CH-47F remains in production more than 60 years later.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CH-47_Chinook_helicopter_HD_stock_footage_grab.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/1280px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg",
     "famousMissions": [
       "Vietnam War resupply operations (1965–1975)",
       "Operation Anaconda – Afghanistan (2002)",
@@ -111,7 +111,7 @@
     "payload": "1,500 kg (3,307 lb)",
     "description": "The Mi-24 Hind is a large attack and assault helicopter famous for its heavily armored fuselage and ability to carry both weapons and troops simultaneously — a combination unique among combat helicopters. NATO pilots nicknamed it the 'Devil's Chariot'.",
     "historicalBackground": "Designed in the late 1960s under Mikhail Mil, the Mi-24 entered Soviet service in 1972. It became a feared weapon during the Soviet-Afghan War (1979–1989), where its armored body proved surprisingly resilient. It has seen combat in over 30 conflicts worldwide.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mi-24VP_in_flight.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Russian_Air_Force_Mil_Mi-24PN_Dvurekov-6.jpg",
     "famousMissions": [
       "Soviet-Afghan War (1979–1989)",
       "First Chechen War (1994–1996)",
@@ -144,7 +144,7 @@
     "payload": "2,500 kg (5,511 lb)",
     "description": "The NH90 is a medium-sized, twin-engine military helicopter developed by a NATO consortium. Available in a tactical transport (TTH) and naval frigate helicopter (NFH) variant, it features a full fly-by-wire control system and composite airframe.",
     "historicalBackground": "Developed in response to a 1985 NATO requirement, the NH90 is one of the largest collaborative helicopter programs in history. It entered service with Germany, France, Italy, and the Netherlands in the mid-2000s. Finland controversially cancelled its order in 2022 citing performance issues.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NH90-ItalianNavy.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg/1280px-French_Navy_NH90_lands_on_USS_Antietam_%28CG-54%29_in_the_Bay_of_Bengal_%28cropped%29.jpg",
     "famousMissions": [
       "ISAF – Afghanistan",
       "EU NAVFOR – Operation Atalanta",
@@ -177,7 +177,7 @@
     "payload": "907 kg (2,000 lb)",
     "description": "The EC135 is one of the world's most popular twin-engine light helicopters, widely used for emergency medical services, police, offshore, and VIP transport. Its Fenestron shrouded tail rotor makes it exceptionally quiet and safe around populated areas.",
     "historicalBackground": "Derived from the Bo 105 and BK 117 lineage, the EC135 first flew in 1994 and has been delivered to operators in more than 50 countries. It is the primary training helicopter for many military pilots and is used extensively by Germany's ADAC air rescue service.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurocopter_EC135_T2.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/EC-135_-_RIAT_2011_%286199185182%29.jpg/1280px-EC-135_-_RIAT_2011_%286199185182%29.jpg",
     "famousMissions": [
       "German ADAC air rescue operations",
       "UK Air Ambulance network",
@@ -209,7 +209,7 @@
     "payload": "2,858 kg (6,300 lb) slung",
     "description": "The SH-60 Seahawk is the naval variant of the Black Hawk, serving as the US Navy's primary shipborne helicopter for anti-submarine warfare, anti-ship missiles, search and rescue, and special operations. Its folding rotors allow storage on small frigate decks.",
     "historicalBackground": "Selected in 1977 to replace the SH-2 Seasprite, the Seahawk first flew in 1979 and entered service in 1984. The MH-60R 'Romeo' variant, introduced in 2005, is considered the world's most capable maritime helicopter, integrating radar, sonar, and weapons in one platform.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SH-60B_Seahawk_in_flight.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SH-60B_Seahawk2.jpg/1280px-SH-60B_Seahawk2.jpg",
     "famousMissions": [
       "Gulf War – anti-surface operations (1991)",
       "USS Cole attack response (2000)",
@@ -241,7 +241,7 @@
     "payload": "4,000 kg (8,818 lb) or 24 passengers",
     "description": "The Mi-8 is the world's most produced helicopter, with over 17,000 built. It serves in military, civilian, VIP, firefighting, Antarctic, and armed gunship roles. Its robust construction and simple maintenance have made it indispensable in harsh environments from the Arctic to Africa.",
     "historicalBackground": "Designed by Mikhail Mil and first flown in 1961, the Mi-8 was intended as a successor to the piston-powered Mi-4. It entered Soviet service in 1967 and became a Cold War staple, equipping the air forces of nearly every Warsaw Pact nation and dozens of developing countries.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mil_Mi-8_helicopter.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mil_Mi-8P%2C_Baltic_Airlines_%28cropped%29.jpg/1280px-Mil_Mi-8P%2C_Baltic_Airlines_%28cropped%29.jpg",
     "famousMissions": [
       "Soviet-Afghan War (1979–1989)",
       "Chernobyl disaster response (1986)",
@@ -274,7 +274,7 @@
     "payload": "16,330 kg (36,000 lb) slung",
     "description": "The CH-53E Super Stallion is the US military's largest and heaviest helicopter, capable of lifting 90% of all Marine Corps equipment. Its three engines and seven-blade rotor provide unmatched heavy-lift capacity for the amphibious assault mission.",
     "historicalBackground": "Developed from the twin-engine CH-53D, the three-engine Super Stallion first flew in 1974 and entered Marine Corps service in 1981. It has served as the backbone of USMC heavy lift for four decades. Its successor, the CH-53K King Stallion, began deliveries in 2018.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CH-53E_Super_Stallion.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sikorsky_CH-53E_%28USMC%29_402.jpg/1280px-Sikorsky_CH-53E_%28USMC%29_402.jpg",
     "famousMissions": [
       "Operation Just Cause – Panama (1989)",
       "Operation Desert Storm (1991)",
@@ -301,7 +301,7 @@
     "payload": "5,443 kg (12,000 lb)",
     "description": "The AW101 Merlin is a large, three-engine helicopter used in naval anti-submarine warfare, VIP transport, and combat search and rescue. The RAF and Royal Navy operate it as the Merlin HC3 and HM2 respectively. It serves as Marine One alternative for the Italian president.",
     "historicalBackground": "A joint development between Agusta and Westland beginning in the 1980s, the EH101 (later AW101) first flew in 1987. After a lengthy development, it entered service with the Royal Navy in 1999. Canada controversially cancelled then reinstated its Cyclone variant order.",
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AgustaWestland_AW101_Merlin_HM1.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/AgustaWestland_HH-101A_Caesar_%28cropped%29.jpg/1280px-AgustaWestland_HH-101A_Caesar_%28cropped%29.jpg",
     "famousMissions": [
       "Royal Navy ASW patrols – North Atlantic",
       "Operation Ellamy – Libya (2011)",
